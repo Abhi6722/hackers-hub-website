@@ -1,0 +1,27 @@
+{
+  "unversionedId": "bamboo",
+  "id": "bamboo",
+  "isDocsHomePage": false,
+  "title": "Bamboo",
+  "description": "WebdriverIO offers a tight integration to CI systems like Bamboo. With the JUnit or Allure reporter, you can easily debug your tests as well as keep track of your test results. The integration is pretty easy.",
+  "source": "@site/docs/BambooIntegration.md",
+  "sourceDirName": ".",
+  "slug": "/bamboo",
+  "permalink": "/docs/bamboo",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/BambooIntegration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "bamboo",
+    "title": "Bamboo"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Jenkins",
+    "permalink": "/docs/jenkins"
+  },
+  "next": {
+    "title": "Allure Reporter",
+    "permalink": "/docs/allure-reporter"
+  }
+}

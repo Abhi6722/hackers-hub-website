@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/mock/abort",
+  "id": "api/mock/abort",
+  "isDocsHomePage": false,
+  "title": "abort",
+  "description": "Abort the request with one of the following error codes:",
+  "source": "@site/docs/api/mock/_abort.md",
+  "sourceDirName": "api/mock",
+  "slug": "/api/mock/abort",
+  "permalink": "/docs/api/mock/abort",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/abort.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "abort",
+    "title": "abort",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/abort.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "waitUntil",
+    "permalink": "/docs/api/element/waitUntil"
+  },
+  "next": {
+    "title": "abortOnce",
+    "permalink": "/docs/api/mock/abortOnce"
+  }
+}

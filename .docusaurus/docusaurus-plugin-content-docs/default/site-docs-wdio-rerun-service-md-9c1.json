@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-rerun-service",
+  "id": "wdio-rerun-service",
+  "isDocsHomePage": false,
+  "title": "Re-run Service",
+  "description": "wdio-rerun-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-rerun-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-rerun-service",
+  "permalink": "/docs/wdio-rerun-service",
+  "editUrl": "https://github.com/jwplayer/wdio-rerun-service/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-rerun-service",
+    "title": "Re-run Service",
+    "custom_edit_url": "https://github.com/jwplayer/wdio-rerun-service/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Novus Visual Regression Service",
+    "permalink": "/docs/wdio-novus-visual-regression-service"
+  },
+  "next": {
+    "title": "winappdriver Service",
+    "permalink": "/docs/wdio-winappdriver-service"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "protractor-migration",
+  "id": "protractor-migration",
+  "isDocsHomePage": false,
+  "title": "From Protractor",
+  "description": "This tutorial is for people who are using Protractor and want to migrate their framework to WebdriverIO. It was initiated after the Angular team has announced that Protractor won't be longer supported. WebdriverIO has been influenced by a lot of Protractors design decisions which is why it is probably the closest framework to migrate over. The WebdriverIO team appreciates the work of every single Protractor contributor and hopes that this tutorial makes the transition to WebdriverIO easy and straightforward.",
+  "source": "@site/docs/ProtractorMigration.md",
+  "sourceDirName": ".",
+  "slug": "/protractor-migration",
+  "permalink": "/docs/protractor-migration",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/ProtractorMigration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "protractor-migration",
+    "title": "From Protractor"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "From v6 to v7",
+    "permalink": "/docs/v7-migration"
+  },
+  "next": {
+    "title": "From Sync to Async",
+    "permalink": "/docs/async-migration"
+  }
+}

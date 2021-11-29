@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/doubleClick",
+  "id": "api/element/doubleClick",
+  "isDocsHomePage": false,
+  "title": "doubleClick",
+  "description": "Double-click on an element.",
+  "source": "@site/docs/api/element/_doubleClick.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/doubleClick",
+  "permalink": "/docs/api/element/doubleClick",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/doubleClick.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doubleClick",
+    "title": "doubleClick",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/doubleClick.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "custom$",
+    "permalink": "/docs/api/element/custom$"
+  },
+  "next": {
+    "title": "dragAndDrop",
+    "permalink": "/docs/api/element/dragAndDrop"
+  }
+}

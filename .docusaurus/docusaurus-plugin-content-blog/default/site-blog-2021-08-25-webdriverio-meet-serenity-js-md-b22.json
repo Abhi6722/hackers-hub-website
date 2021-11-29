@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2021/08/25/webdriverio-meet-serenity-js",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2021-08-25-webdriverio-meet-serenity-js.md",
+  "source": "@site/blog/2021-08-25-webdriverio-meet-serenity-js.md",
+  "title": "WebdriverIO, meet Serenity/JS",
+  "description": "WebdriverIO is one of the most popular test frameworks and an excellent Web integration tool.",
+  "date": "2021-08-25T00:00:00.000Z",
+  "formattedDate": "August 25, 2021",
+  "tags": [],
+  "readingTime": 4.165,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Jan Molak",
+      "url": "https://www.linkedin.com/in/janmolak/",
+      "imageURL": "https://avatars.githubusercontent.com/u/1089173?s=400&v=4"
+    }
+  ],
+  "nextItem": {
+    "title": "Sync API Deprecation",
+    "permalink": "/blog/2021/07/28/sync-api-deprecation"
+  }
+}

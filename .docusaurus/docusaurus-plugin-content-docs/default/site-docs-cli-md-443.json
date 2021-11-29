@@ -1,0 +1,27 @@
+{
+  "unversionedId": "clioptions",
+  "id": "clioptions",
+  "isDocsHomePage": false,
+  "title": "WDIO CLI Options",
+  "description": "WebdriverIO comes with its own test runner to help you start testing as quickly as possible.",
+  "source": "@site/docs/CLI.md",
+  "sourceDirName": ".",
+  "slug": "/clioptions",
+  "permalink": "/docs/clioptions",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/CLI.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "clioptions",
+    "title": "WDIO CLI Options"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "REPL interface",
+    "permalink": "/docs/repl"
+  },
+  "next": {
+    "title": "Testrunner Configuration",
+    "permalink": "/docs/configurationfile"
+  }
+}

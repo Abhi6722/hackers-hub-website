@@ -1,0 +1,28 @@
+{
+  "unversionedId": "firefox-profile-service",
+  "id": "firefox-profile-service",
+  "isDocsHomePage": false,
+  "title": "Firefox Profile Service",
+  "description": "You want to run your Firefox browser with a specific extension or need to set couple preferences? Selenium allows you to use a profile for the Firefox browser by passing this profile as base64 string to the firefox_profile property in your desired capabilities. This requires to build that profile and convert it into base64. This service for the wdio testrunner takes the work of compiling the profile out of your hand and let's you define your desired options comfortable from the wdio.conf.js file.",
+  "source": "@site/docs/_firefox-profile-service.md",
+  "sourceDirName": ".",
+  "slug": "/firefox-profile-service",
+  "permalink": "/docs/firefox-profile-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-firefox-profile-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "firefox-profile-service",
+    "title": "Firefox Profile Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-firefox-profile-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Devtools Service",
+    "permalink": "/docs/devtools-service"
+  },
+  "next": {
+    "title": "Sauce Service",
+    "permalink": "/docs/sauce-service"
+  }
+}

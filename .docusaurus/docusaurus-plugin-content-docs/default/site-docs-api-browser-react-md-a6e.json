@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/react$",
+  "id": "api/browser/react$",
+  "isDocsHomePage": false,
+  "title": "react$",
+  "description": "The react$ command is a useful command to query React Components by their",
+  "source": "@site/docs/api/browser/_react$.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/react$",
+  "permalink": "/docs/api/browser/react$",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/react$.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "react$",
+    "title": "react$",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/react$.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "react$$",
+    "permalink": "/docs/api/browser/react$$"
+  },
+  "next": {
+    "title": "reloadSession",
+    "permalink": "/docs/api/browser/reloadSession"
+  }
+}

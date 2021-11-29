@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-slack-service",
+  "id": "wdio-slack-service",
+  "isDocsHomePage": false,
+  "title": "Slack Service",
+  "description": "wdio-slack-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-slack-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-slack-service",
+  "permalink": "/docs/wdio-slack-service",
+  "editUrl": "https://github.com/carmenmitru/wdio-slack-service/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-slack-service",
+    "title": "Slack Service",
+    "custom_edit_url": "https://github.com/carmenmitru/wdio-slack-service/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "WireMock Service",
+    "permalink": "/docs/wdio-wiremock-service"
+  },
+  "next": {
+    "title": "LambdaTest Service",
+    "permalink": "/docs/wdio-lambdatest-service"
+  }
+}

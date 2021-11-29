@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-ng-apimock-service",
+  "id": "wdio-ng-apimock-service",
+  "isDocsHomePage": false,
+  "title": "Ng-apimock Service",
+  "description": "wdio-ng-apimock-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-ng-apimock-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-ng-apimock-service",
+  "permalink": "/docs/wdio-ng-apimock-service",
+  "editUrl": "https://github.com/ng-apimock/webdriverio-plugin/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-ng-apimock-service",
+    "title": "Ng-apimock Service",
+    "custom_edit_url": "https://github.com/ng-apimock/webdriverio-plugin/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Image Comparison (Visual Regression Testing) Service",
+    "permalink": "/docs/wdio-image-comparison-service"
+  },
+  "next": {
+    "title": "Novus Visual Regression Service",
+    "permalink": "/docs/wdio-novus-visual-regression-service"
+  }
+}

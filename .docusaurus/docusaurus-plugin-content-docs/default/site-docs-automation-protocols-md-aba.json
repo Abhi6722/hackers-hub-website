@@ -1,0 +1,27 @@
+{
+  "unversionedId": "automationProtocols",
+  "id": "automationProtocols",
+  "isDocsHomePage": false,
+  "title": "Automation Protocols",
+  "description": "With WebdriverIO, you can choose between multiple automation technologies when running your E2E tests locally or in the cloud. By default WebdriverIO will always check for a browser driver that is compliant to the WebDriver protocol on localhost:4444. If it can't find such driver it falls back to use Chrome DevTools using Puppeteer under the hood.",
+  "source": "@site/docs/AutomationProtocols.md",
+  "sourceDirName": ".",
+  "slug": "/automationProtocols",
+  "permalink": "/docs/automationProtocols",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/AutomationProtocols.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "automationProtocols",
+    "title": "Automation Protocols"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Sync vs. Async Mode",
+    "permalink": "/docs/sync-vs-async"
+  },
+  "next": {
+    "title": "Multiremote",
+    "permalink": "/docs/multiremote"
+  }
+}

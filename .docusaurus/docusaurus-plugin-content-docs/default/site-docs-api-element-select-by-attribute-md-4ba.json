@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/selectByAttribute",
+  "id": "api/element/selectByAttribute",
+  "isDocsHomePage": false,
+  "title": "selectByAttribute",
+  "description": "Select option with a specific value.",
+  "source": "@site/docs/api/element/_selectByAttribute.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/selectByAttribute",
+  "permalink": "/docs/api/element/selectByAttribute",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/selectByAttribute.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "selectByAttribute",
+    "title": "selectByAttribute",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/selectByAttribute.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "scrollIntoView",
+    "permalink": "/docs/api/element/scrollIntoView"
+  },
+  "next": {
+    "title": "selectByIndex",
+    "permalink": "/docs/api/element/selectByIndex"
+  }
+}

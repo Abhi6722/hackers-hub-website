@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2019/05/18/visual-regression-for-v5",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2019-05-18-visual-regression-for-v5.md",
+  "source": "@site/blog/2019-05-18-visual-regression-for-v5.md",
+  "title": "Visual Regression for V5",
+  "description": "We are pleased to announce that we now have a new Visual Regression service for WebdriverIO V5 called wdio-image-comparison-service.",
+  "date": "2019-05-18T00:00:00.000Z",
+  "formattedDate": "May 18, 2019",
+  "tags": [],
+  "readingTime": 4.505,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Wim Selles",
+      "url": "http://github.com/wswebcreation",
+      "imageURL": "https://avatars2.githubusercontent.com/u/11979740?s=460&v=4"
+    }
+  ],
+  "prevItem": {
+    "title": "File Uploads with WebdriverIO",
+    "permalink": "/blog/2019/06/25/file-upload"
+  },
+  "nextItem": {
+    "title": "React Selectors",
+    "permalink": "/blog/2019/04/03/react-selectors"
+  }
+}

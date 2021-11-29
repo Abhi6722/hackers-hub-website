@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/2018/12/19/webdriverio-v5-released",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2018-12-19-webdriverio-v5-released.md",
+  "source": "@site/blog/2018-12-19-webdriverio-v5-released.md",
+  "title": "WebdriverIO v5 Released",
+  "description": "We are pleased to announce that a new major version of WebdriverIO has finally been released! I never thought that it would take this long (it's been over a year), but we can finally say that the new version of WebdriverIO is ready for use (and better than ever). There has been over 800 commits, from over 34 different contributors; and I am truly grateful to everyone who participated in this collective effort. With that being said...",
+  "date": "2018-12-19T00:00:00.000Z",
+  "formattedDate": "December 19, 2018",
+  "tags": [],
+  "readingTime": 10.675,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Christian Bromann",
+      "url": "http://twitter.com/bromann",
+      "imageURL": "https://s.gravatar.com/avatar/d98b16d7c93d15865f34a225dd4b1254?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "Shadow DOM Support & reusable component objects",
+    "permalink": "/blog/2019/02/22/shadow-dom-support"
+  }
+}

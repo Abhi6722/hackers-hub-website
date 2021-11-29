@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/getCookies",
+  "id": "api/browser/getCookies",
+  "isDocsHomePage": false,
+  "title": "getCookies",
+  "description": "Retrieve a cookie",
+  "source": "@site/docs/api/browser/_getCookies.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/getCookies",
+  "permalink": "/docs/api/browser/getCookies",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/getCookies.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getCookies",
+    "title": "getCookies",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/getCookies.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "executeAsync",
+    "permalink": "/docs/api/browser/executeAsync"
+  },
+  "next": {
+    "title": "getPuppeteer",
+    "permalink": "/docs/api/browser/getPuppeteer"
+  }
+}

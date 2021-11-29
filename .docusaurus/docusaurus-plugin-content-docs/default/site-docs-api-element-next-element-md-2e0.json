@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/nextElement",
+  "id": "api/element/nextElement",
+  "isDocsHomePage": false,
+  "title": "nextElement",
+  "description": "Returns the next sibling element of the selected DOM-element.",
+  "source": "@site/docs/api/element/_nextElement.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/nextElement",
+  "permalink": "/docs/api/element/nextElement",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/nextElement.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "nextElement",
+    "title": "nextElement",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/nextElement.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "moveTo",
+    "permalink": "/docs/api/element/moveTo"
+  },
+  "next": {
+    "title": "parentElement",
+    "permalink": "/docs/api/element/parentElement"
+  }
+}

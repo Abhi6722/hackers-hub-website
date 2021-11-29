@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getValue",
+  "id": "api/element/getValue",
+  "isDocsHomePage": false,
+  "title": "getValue",
+  "description": "Get the value of a `,  or text ` found by given selector.",
+  "source": "@site/docs/api/element/_getValue.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getValue",
+  "permalink": "/docs/api/element/getValue",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getValue.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getValue",
+    "title": "getValue",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getValue.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getText",
+    "permalink": "/docs/api/element/getText"
+  },
+  "next": {
+    "title": "isClickable",
+    "permalink": "/docs/api/element/isClickable"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/scrollIntoView",
+  "id": "api/element/scrollIntoView",
+  "isDocsHomePage": false,
+  "title": "scrollIntoView",
+  "description": "Scroll element into viewport (MDN Reference).",
+  "source": "@site/docs/api/element/_scrollIntoView.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/scrollIntoView",
+  "permalink": "/docs/api/element/scrollIntoView",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/scrollIntoView.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "scrollIntoView",
+    "title": "scrollIntoView",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/scrollIntoView.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "saveScreenshot",
+    "permalink": "/docs/api/element/saveScreenshot"
+  },
+  "next": {
+    "title": "selectByAttribute",
+    "permalink": "/docs/api/element/selectByAttribute"
+  }
+}

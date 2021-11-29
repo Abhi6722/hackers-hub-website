@@ -1,0 +1,27 @@
+{
+  "unversionedId": "timeouts",
+  "id": "timeouts",
+  "isDocsHomePage": false,
+  "title": "Timeouts",
+  "description": "Each command in WebdriverIO is an asynchronous operation. A request is fired to the Selenium server (or a cloud service like Sauce Labs), and its response contains the result once the action has completed or failed.",
+  "source": "@site/docs/Timeouts.md",
+  "sourceDirName": ".",
+  "slug": "/timeouts",
+  "permalink": "/docs/timeouts",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Timeouts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "timeouts",
+    "title": "Timeouts"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Selectors",
+    "permalink": "/docs/selectors"
+  },
+  "next": {
+    "title": "The Browser Object",
+    "permalink": "/docs/browserobject"
+  }
+}

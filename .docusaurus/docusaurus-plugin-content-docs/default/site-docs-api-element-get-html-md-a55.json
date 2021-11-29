@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getHTML",
+  "id": "api/element/getHTML",
+  "isDocsHomePage": false,
+  "title": "getHTML",
+  "description": "Get source code of specified DOM element by selector.",
+  "source": "@site/docs/api/element/_getHTML.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getHTML",
+  "permalink": "/docs/api/element/getHTML",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getHTML.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getHTML",
+    "title": "getHTML",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getHTML.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getComputedRole",
+    "permalink": "/docs/api/element/getComputedRole"
+  },
+  "next": {
+    "title": "getLocation",
+    "permalink": "/docs/api/element/getLocation"
+  }
+}

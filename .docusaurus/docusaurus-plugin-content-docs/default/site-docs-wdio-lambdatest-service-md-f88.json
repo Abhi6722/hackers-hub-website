@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-lambdatest-service",
+  "id": "wdio-lambdatest-service",
+  "isDocsHomePage": false,
+  "title": "LambdaTest Service",
+  "description": "wdio-lambdatest-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-lambdatest-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-lambdatest-service",
+  "permalink": "/docs/wdio-lambdatest-service",
+  "editUrl": "https://github.com/LambdaTest/wdio-lambdatest-service/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-lambdatest-service",
+    "title": "LambdaTest Service",
+    "custom_edit_url": "https://github.com/LambdaTest/wdio-lambdatest-service/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Slack Service",
+    "permalink": "/docs/wdio-slack-service"
+  },
+  "next": {
+    "title": "Image Comparison (Visual Regression Testing) Service",
+    "permalink": "/docs/wdio-image-comparison-service"
+  }
+}

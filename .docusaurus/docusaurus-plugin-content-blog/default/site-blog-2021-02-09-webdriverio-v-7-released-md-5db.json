@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2021/02/09/webdriverio-v7-released",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2021-02-09-webdriverio-v7-released.md",
+  "source": "@site/blog/2021-02-09-webdriverio-v7-released.md",
+  "title": "WebdriverIO v7 Released",
+  "description": "It's the time of the year where the WebdriverIO project is releasing a new major update. It’s almost become a tradition for us to rewrite the complete code base to further grow the project. When we announced the v5 update, we moved from a multi-repository setup to a mono-repo. This time, the rewrite of the code base is just as important and impactful, but comes with almost no implications for the end user. As more and more contributors have joined the project, we've noticed that using pure JavaScript can be helpful to keep the entry barrier for contributions low, but that it ultimately decreases the quality of contributions overall. With the growing size of the code in the project, keeping up with all the different types that were thrown around was becoming more difficult for us as core contributors. Since we already had a lot of TypeScript fans among us, we decided to move to TypeScript quickly after meeting at the OpenJS Collaborator Summit.",
+  "date": "2021-02-09T00:00:00.000Z",
+  "formattedDate": "February 9, 2021",
+  "tags": [],
+  "readingTime": 8.11,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Christian Bromann",
+      "url": "http://twitter.com/bromann",
+      "imageURL": "https://s.gravatar.com/avatar/d98b16d7c93d15865f34a225dd4b1254?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "Grouping Specs for Execution in a Single Instance",
+    "permalink": "/blog/2021/03/23/grouping-specs"
+  },
+  "nextItem": {
+    "title": "New Network Primitives (Beta)",
+    "permalink": "/blog/2020/07/10/network-primitives"
+  }
+}

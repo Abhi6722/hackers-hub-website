@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2019/12/05/wiremock",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2019-12-05-wiremock.md",
+  "source": "@site/blog/2019-12-05-wiremock.md",
+  "title": "WireMock as a Service",
+  "description": "We are pleased to announce that we now have a new mocking service for WebdriverIO called wdio-wiremock-service.",
+  "date": "2019-12-05T00:00:00.000Z",
+  "formattedDate": "December 5, 2019",
+  "tags": [],
+  "readingTime": 1.97,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Erwin Heitzman",
+      "url": "http://github.com/erwinheitzman",
+      "imageURL": "https://avatars1.githubusercontent.com/u/15839059?s=80&v=4"
+    }
+  ],
+  "prevItem": {
+    "title": "WebdriverIO v6 Released",
+    "permalink": "/blog/2020/03/26/webdriverio-v6-released"
+  },
+  "nextItem": {
+    "title": "Avoid starting session for excluded specs",
+    "permalink": "/blog/2019/11/01/spec-filtering"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/selenium",
+  "id": "api/selenium",
+  "isDocsHomePage": false,
+  "title": "Selenium Standalone",
+  "description": "file",
+  "source": "@site/docs/api/_selenium.md",
+  "sourceDirName": "api",
+  "slug": "/api/selenium",
+  "permalink": "/docs/api/selenium",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/selenium.json",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "selenium",
+    "title": "Selenium Standalone",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/selenium.json"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Sauce Labs",
+    "permalink": "/docs/api/saucelabs"
+  },
+  "next": {
+    "title": "JSON Wire Protocol",
+    "permalink": "/docs/api/jsonwp"
+  }
+}

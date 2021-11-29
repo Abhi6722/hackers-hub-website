@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2021/07/28/sync-api-deprecation",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2021-07-28-sync-api-deprecation.md",
+  "source": "@site/blog/2021-07-28-sync-api-deprecation.md",
+  "title": "Sync API Deprecation",
+  "description": "For many years one of the selling features of the WebdriverIO framework was its synchronous API. Especially for folks coming from more synchronous oriented languages such as Java or Ruby, it has helped to avoid race conditions when executing commands. But also people that are more familiar with Promises tend to prefer synchronous execution as it made the code easier to read and handle.",
+  "date": "2021-07-28T00:00:00.000Z",
+  "formattedDate": "July 28, 2021",
+  "tags": [],
+  "readingTime": 3,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Christian Bromann",
+      "url": "http://twitter.com/bromann",
+      "imageURL": "https://s.gravatar.com/avatar/d98b16d7c93d15865f34a225dd4b1254?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "WebdriverIO, meet Serenity/JS",
+    "permalink": "/blog/2021/08/25/webdriverio-meet-serenity-js"
+  },
+  "nextItem": {
+    "title": "Case Study - How WebdriverIO facilitated faster releases and better code quality for an online video company",
+    "permalink": "/blog/2021/06/22/jwplayer-case-study"
+  }
+}

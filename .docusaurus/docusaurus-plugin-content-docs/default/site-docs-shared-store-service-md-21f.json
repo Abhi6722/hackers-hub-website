@@ -1,0 +1,28 @@
+{
+  "unversionedId": "shared-store-service",
+  "id": "shared-store-service",
+  "isDocsHomePage": false,
+  "title": "Shared Store Service",
+  "description": "Exchange data between main process and workers (specs).",
+  "source": "@site/docs/_shared-store-service.md",
+  "sourceDirName": ".",
+  "slug": "/shared-store-service",
+  "permalink": "/docs/shared-store-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-shared-store-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "shared-store-service",
+    "title": "Shared Store Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-shared-store-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Selenium Standalone Service",
+    "permalink": "/docs/selenium-standalone-service"
+  },
+  "next": {
+    "title": "Static Server Service",
+    "permalink": "/docs/static-server-service"
+  }
+}

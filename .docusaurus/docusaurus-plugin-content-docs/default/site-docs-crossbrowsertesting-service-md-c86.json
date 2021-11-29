@@ -1,0 +1,28 @@
+{
+  "unversionedId": "crossbrowsertesting-service",
+  "id": "crossbrowsertesting-service",
+  "isDocsHomePage": false,
+  "title": "Crossbrowsertesting Service",
+  "description": "A WebdriverIO service that manages local tunnel and job metadata for CrossBrowserTesting users.",
+  "source": "@site/docs/_crossbrowsertesting-service.md",
+  "sourceDirName": ".",
+  "slug": "/crossbrowsertesting-service",
+  "permalink": "/docs/crossbrowsertesting-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-crossbrowsertesting-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crossbrowsertesting-service",
+    "title": "Crossbrowsertesting Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-crossbrowsertesting-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Browserstack Service",
+    "permalink": "/docs/browserstack-service"
+  },
+  "next": {
+    "title": "Devtools Service",
+    "permalink": "/docs/devtools-service"
+  }
+}

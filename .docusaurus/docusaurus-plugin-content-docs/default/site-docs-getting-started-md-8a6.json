@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gettingstarted",
+  "id": "gettingstarted",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "Welcome to the WebdriverIO documentation. It will help you to get started fast. If you run into problems, you can find help and answers on our Gitter Channel or you can hit me on Twitter.",
+  "source": "@site/docs/GettingStarted.md",
+  "sourceDirName": ".",
+  "slug": "/gettingstarted",
+  "permalink": "/docs/gettingstarted",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/GettingStarted.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "gettingstarted",
+    "title": "Getting Started"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "What is Webdriver.IO?",
+    "permalink": "/docs/what-is-webdriverio"
+  },
+  "next": {
+    "title": "Boilerplate Projects",
+    "permalink": "/docs/boilerplates"
+  }
+}

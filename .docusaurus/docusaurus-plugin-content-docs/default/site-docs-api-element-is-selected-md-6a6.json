@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/isSelected",
+  "id": "api/element/isSelected",
+  "isDocsHomePage": false,
+  "title": "isSelected",
+  "description": "Will return true or false whether or not an ` or ` element of type",
+  "source": "@site/docs/api/element/_isSelected.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/isSelected",
+  "permalink": "/docs/api/element/isSelected",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isSelected.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "isSelected",
+    "title": "isSelected",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isSelected.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "isFocused",
+    "permalink": "/docs/api/element/isFocused"
+  },
+  "next": {
+    "title": "moveTo",
+    "permalink": "/docs/api/element/moveTo"
+  }
+}

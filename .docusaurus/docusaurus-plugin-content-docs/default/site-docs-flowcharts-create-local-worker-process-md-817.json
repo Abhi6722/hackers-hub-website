@@ -1,0 +1,27 @@
+{
+  "unversionedId": "flowcharts/createlocalworkerprocess",
+  "id": "flowcharts/createlocalworkerprocess",
+  "isDocsHomePage": false,
+  "title": "Create worker process",
+  "description": "This flowchart explains how a worker process is created.",
+  "source": "@site/docs/flowcharts/CreateLocalWorkerProcess.md",
+  "sourceDirName": "flowcharts",
+  "slug": "/flowcharts/createlocalworkerprocess",
+  "permalink": "/docs/flowcharts/createlocalworkerprocess",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/flowcharts/CreateLocalWorkerProcess.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "createlocalworkerprocess",
+    "title": "Create worker process"
+  },
+  "sidebar": "flowcharts",
+  "previous": {
+    "title": "WDIO Commands",
+    "permalink": "/docs/flowcharts/wdiocommands"
+  },
+  "next": {
+    "title": "Test Execution",
+    "permalink": "/docs/flowcharts/testexecution"
+  }
+}

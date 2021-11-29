@@ -1,0 +1,28 @@
+{
+  "unversionedId": "sauce-service",
+  "id": "sauce-service",
+  "isDocsHomePage": false,
+  "title": "Sauce Service",
+  "description": "WebdriverIO service that provides a better integration into Sauce Labs. This service can be used for:",
+  "source": "@site/docs/_sauce-service.md",
+  "sourceDirName": ".",
+  "slug": "/sauce-service",
+  "permalink": "/docs/sauce-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-sauce-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sauce-service",
+    "title": "Sauce Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-sauce-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Firefox Profile Service",
+    "permalink": "/docs/firefox-profile-service"
+  },
+  "next": {
+    "title": "Selenium Standalone Service",
+    "permalink": "/docs/selenium-standalone-service"
+  }
+}

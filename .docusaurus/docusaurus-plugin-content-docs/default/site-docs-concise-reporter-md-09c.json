@@ -1,0 +1,28 @@
+{
+  "unversionedId": "concise-reporter",
+  "id": "concise-reporter",
+  "isDocsHomePage": false,
+  "title": "Concise Reporter",
+  "description": "A WebdriverIO plugin to report in concise style.",
+  "source": "@site/docs/_concise-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/concise-reporter",
+  "permalink": "/docs/concise-reporter",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-concise-reporter/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "concise-reporter",
+    "title": "Concise Reporter",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-concise-reporter/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Allure Reporter",
+    "permalink": "/docs/allure-reporter"
+  },
+  "next": {
+    "title": "Dot Reporter",
+    "permalink": "/docs/dot-reporter"
+  }
+}

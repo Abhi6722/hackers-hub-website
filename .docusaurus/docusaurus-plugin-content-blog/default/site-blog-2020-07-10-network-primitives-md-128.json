@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/07/10/network-primitives",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2020-07-10-network-primitives.md",
+  "source": "@site/blog/2020-07-10-network-primitives.md",
+  "title": "New Network Primitives (Beta)",
+  "description": "The WebdriverIO team continues its efforts to provide more functionality to its automation interface by shipping new network primitives to its API. With the latest v6.3. update you can now easily mock web resources in your test and define custom responses that allow you to drastically reduce testing time as you can now better test individual scenarios. With that WebdriverIO catches up with other popular testing tools like Puppeteer, Playwright or Cypress and even simplifies mocking further.",
+  "date": "2020-07-10T00:00:00.000Z",
+  "formattedDate": "July 10, 2020",
+  "tags": [],
+  "readingTime": 2.645,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Christian Bromann",
+      "url": "http://twitter.com/bromann",
+      "imageURL": "https://s.gravatar.com/avatar/d98b16d7c93d15865f34a225dd4b1254?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "WebdriverIO v7 Released",
+    "permalink": "/blog/2021/02/09/webdriverio-v7-released"
+  },
+  "nextItem": {
+    "title": "WebdriverIO Open Office Hours",
+    "permalink": "/blog/2020/07/01/office-hours"
+  }
+}

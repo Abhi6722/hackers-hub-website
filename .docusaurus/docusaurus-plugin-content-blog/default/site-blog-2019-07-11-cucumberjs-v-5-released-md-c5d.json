@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2019/07/11/cucumberjs-v5-released",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2019-07-11-cucumberjs-v5-released.md",
+  "source": "@site/blog/2019-07-11-cucumberjs-v5-released.md",
+  "title": "WebdriverIO V5 now also supports CucumberJS",
+  "description": "We are pleased to announce that we now have support for CucumberJS in WebdriverIO V5!!!!",
+  "date": "2019-07-11T00:00:00.000Z",
+  "formattedDate": "July 11, 2019",
+  "tags": [],
+  "readingTime": 7.14,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Wim Selles",
+      "url": "http://github.com/wswebcreation",
+      "imageURL": "https://avatars2.githubusercontent.com/u/11979740?s=460&v=4"
+    }
+  ],
+  "prevItem": {
+    "title": "Chrome DevTools as Automation Protocol",
+    "permalink": "/blog/2019/09/16/devtools"
+  },
+  "nextItem": {
+    "title": "File Uploads with WebdriverIO",
+    "permalink": "/blog/2019/06/25/file-upload"
+  }
+}

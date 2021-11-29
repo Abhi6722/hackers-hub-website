@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/saveRecordingScreen",
+  "id": "api/browser/saveRecordingScreen",
+  "isDocsHomePage": false,
+  "title": "saveRecordingScreen",
+  "description": "Save a video started by startRecordingScreen command to file.",
+  "source": "@site/docs/api/browser/_saveRecordingScreen.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/saveRecordingScreen",
+  "permalink": "/docs/api/browser/saveRecordingScreen",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/saveRecordingScreen.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "saveRecordingScreen",
+    "title": "saveRecordingScreen",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/saveRecordingScreen.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "savePDF",
+    "permalink": "/docs/api/browser/savePDF"
+  },
+  "next": {
+    "title": "saveScreenshot",
+    "permalink": "/docs/api/browser/saveScreenshot"
+  }
+}

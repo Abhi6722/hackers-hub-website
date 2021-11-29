@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/saucelabs",
+  "id": "api/saucelabs",
+  "isDocsHomePage": false,
+  "title": "Sauce Labs",
+  "description": "All commands are only supported on Chrome using Sauce Labs",
+  "source": "@site/docs/api/_saucelabs.md",
+  "sourceDirName": "api",
+  "slug": "/api/saucelabs",
+  "permalink": "/docs/api/saucelabs",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/saucelabs.json",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "saucelabs",
+    "title": "Sauce Labs",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/saucelabs.json"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Firefox",
+    "permalink": "/docs/api/gecko"
+  },
+  "next": {
+    "title": "Selenium Standalone",
+    "permalink": "/docs/api/selenium"
+  }
+}

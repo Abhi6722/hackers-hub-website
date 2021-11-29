@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getProperty",
+  "id": "api/element/getProperty",
+  "isDocsHomePage": false,
+  "title": "getProperty",
+  "description": "The Get Element Property command will return the result of getting a property of an element.",
+  "source": "@site/docs/api/element/_getProperty.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getProperty",
+  "permalink": "/docs/api/element/getProperty",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getProperty.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getProperty",
+    "title": "getProperty",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getProperty.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getLocation",
+    "permalink": "/docs/api/element/getLocation"
+  },
+  "next": {
+    "title": "getSize",
+    "permalink": "/docs/api/element/getSize"
+  }
+}

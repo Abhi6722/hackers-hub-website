@@ -1,0 +1,27 @@
+{
+  "unversionedId": "babel",
+  "id": "babel",
+  "isDocsHomePage": false,
+  "title": "Babel Setup",
+  "description": "To write tests using next-generation JavaScript features, you can use Babel to compile your test files.",
+  "source": "@site/docs/Babel.md",
+  "sourceDirName": ".",
+  "slug": "/babel",
+  "permalink": "/docs/babel",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Babel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "babel",
+    "title": "Babel Setup"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Options",
+    "permalink": "/docs/options"
+  },
+  "next": {
+    "title": "TypeScript Setup",
+    "permalink": "/docs/typescript"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/mock/clear",
+  "id": "api/mock/clear",
+  "isDocsHomePage": false,
+  "title": "clear",
+  "description": "Resets all information stored in the mock.calls array.",
+  "source": "@site/docs/api/mock/_clear.md",
+  "sourceDirName": "api/mock",
+  "slug": "/api/mock/clear",
+  "permalink": "/docs/api/mock/clear",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/clear.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "clear",
+    "title": "clear",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/clear.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "abortOnce",
+    "permalink": "/docs/api/mock/abortOnce"
+  },
+  "next": {
+    "title": "respond",
+    "permalink": "/docs/api/mock/respond"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2019/09/16/devtools",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2019-09-16-devtools.md",
+  "source": "@site/blog/2019-09-16-devtools.md",
+  "title": "Chrome DevTools as Automation Protocol",
+  "description": "Over the last few years a lot of new testing frameworks have evolved that provide different capabilities but also come with certain limitations. While tools like Selenium are often seen as slow and flaky and others like Cypress.io or Puppeteer are hyped as the future in the testing space. In reality all tools have their own use cases, have different levels of support and are based on a completely different architecture. Comparing them is rather useless as it ends up comparing apples with oranges. In larger test suites flakiness and race conditions can happen using all of these tools so that we can safely say that up to this point none of them (including WebdriverIO) has found the ultimate solution for world /(domin|autom)ation/.",
+  "date": "2019-09-16T00:00:00.000Z",
+  "formattedDate": "September 16, 2019",
+  "tags": [],
+  "readingTime": 5.825,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Christian Bromann",
+      "url": "http://github.com/christian-bromann",
+      "imageURL": "https://s.gravatar.com/avatar/d98b16d7c93d15865f34a225dd4b1254?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "Avoid starting session for excluded specs",
+    "permalink": "/blog/2019/11/01/spec-filtering"
+  },
+  "nextItem": {
+    "title": "WebdriverIO V5 now also supports CucumberJS",
+    "permalink": "/blog/2019/07/11/cucumberjs-v5-released"
+  }
+}

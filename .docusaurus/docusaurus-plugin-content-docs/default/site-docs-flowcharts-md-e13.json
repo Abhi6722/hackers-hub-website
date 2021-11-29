@@ -1,0 +1,18 @@
+{
+  "unversionedId": "flowchartsoverview",
+  "id": "flowchartsoverview",
+  "isDocsHomePage": false,
+  "title": "Flowcharts",
+  "description": "The flowcharts provide a high level overview of the WebdriverIO ecosystem and how the different packages interact with each other.",
+  "source": "@site/docs/Flowcharts.md",
+  "sourceDirName": ".",
+  "slug": "/flowchartsoverview",
+  "permalink": "/docs/flowchartsoverview",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Flowcharts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "flowchartsoverview",
+    "title": "Flowcharts"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/keys",
+  "id": "api/browser/keys",
+  "isDocsHomePage": false,
+  "title": "keys",
+  "description": "Send a sequence of key strokes to the active element. You can also use characters like",
+  "source": "@site/docs/api/browser/_keys.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/keys",
+  "permalink": "/docs/api/browser/keys",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/keys.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "keys",
+    "title": "keys",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/keys.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getWindowSize",
+    "permalink": "/docs/api/browser/getWindowSize"
+  },
+  "next": {
+    "title": "mock",
+    "permalink": "/docs/api/browser/mock"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/mockRestoreAll",
+  "id": "api/browser/mockRestoreAll",
+  "isDocsHomePage": false,
+  "title": "mockRestoreAll",
+  "description": "Restores all mock information and behavior stored in all registered",
+  "source": "@site/docs/api/browser/_mockRestoreAll.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/mockRestoreAll",
+  "permalink": "/docs/api/browser/mockRestoreAll",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/mockRestoreAll.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mockRestoreAll",
+    "title": "mockRestoreAll",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/mockRestoreAll.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "mockClearAll",
+    "permalink": "/docs/api/browser/mockClearAll"
+  },
+  "next": {
+    "title": "newWindow",
+    "permalink": "/docs/api/browser/newWindow"
+  }
+}

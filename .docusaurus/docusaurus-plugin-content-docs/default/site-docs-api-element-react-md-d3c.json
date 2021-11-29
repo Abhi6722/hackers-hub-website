@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/react$$",
+  "id": "api/element/react$$",
+  "isDocsHomePage": false,
+  "title": "react$$",
+  "description": "The react$$ command is a useful command to query multiple React Components",
+  "source": "@site/docs/api/element/_react$$.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/react$$",
+  "permalink": "/docs/api/element/react$$",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/react$$.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "react$$",
+    "title": "react$$",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/react$$.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "previousElement",
+    "permalink": "/docs/api/element/previousElement"
+  },
+  "next": {
+    "title": "react$",
+    "permalink": "/docs/api/element/react$"
+  }
+}

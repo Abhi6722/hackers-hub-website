@@ -1,0 +1,27 @@
+{
+  "unversionedId": "customreporter",
+  "id": "customreporter",
+  "isDocsHomePage": false,
+  "title": "Custom Reporter",
+  "description": "You can write your own custom reporter for the WDIO test runner that is tailored to your needs. And it’s easy!",
+  "source": "@site/docs/CustomReporter.md",
+  "sourceDirName": ".",
+  "slug": "/customreporter",
+  "permalink": "/docs/customreporter",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/CustomReporter.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "customreporter",
+    "title": "Custom Reporter"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Watch Test Files",
+    "permalink": "/docs/watcher"
+  },
+  "next": {
+    "title": "Custom Services",
+    "permalink": "/docs/customservices"
+  }
+}

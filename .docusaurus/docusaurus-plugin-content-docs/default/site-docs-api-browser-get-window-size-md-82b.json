@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/getWindowSize",
+  "id": "api/browser/getWindowSize",
+  "isDocsHomePage": false,
+  "title": "getWindowSize",
+  "description": "Returns browser window size.",
+  "source": "@site/docs/api/browser/_getWindowSize.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/getWindowSize",
+  "permalink": "/docs/api/browser/getWindowSize",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/getWindowSize.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getWindowSize",
+    "title": "getWindowSize",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/getWindowSize.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getPuppeteer",
+    "permalink": "/docs/api/browser/getPuppeteer"
+  },
+  "next": {
+    "title": "keys",
+    "permalink": "/docs/api/browser/keys"
+  }
+}

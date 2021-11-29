@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/debug",
+  "id": "api/browser/debug",
+  "isDocsHomePage": false,
+  "title": "debug",
+  "description": "This command helps you to debug your integration tests. It stops the running browser and gives",
+  "source": "@site/docs/api/browser/_debug.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/debug",
+  "permalink": "/docs/api/browser/debug",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/debug.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "debug",
+    "title": "debug",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/debug.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "custom$",
+    "permalink": "/docs/api/browser/custom$"
+  },
+  "next": {
+    "title": "deleteCookies",
+    "permalink": "/docs/api/browser/deleteCookies"
+  }
+}

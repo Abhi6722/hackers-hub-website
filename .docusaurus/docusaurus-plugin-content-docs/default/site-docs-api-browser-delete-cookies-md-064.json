@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/deleteCookies",
+  "id": "api/browser/deleteCookies",
+  "isDocsHomePage": false,
+  "title": "deleteCookies",
+  "description": "Delete cookies visible to the current page. By providing a cookie name it just removes the single cookie or more when multiple names are passed.",
+  "source": "@site/docs/api/browser/_deleteCookies.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/deleteCookies",
+  "permalink": "/docs/api/browser/deleteCookies",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/deleteCookies.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "deleteCookies",
+    "title": "deleteCookies",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/deleteCookies.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "debug",
+    "permalink": "/docs/api/browser/debug"
+  },
+  "next": {
+    "title": "execute",
+    "permalink": "/docs/api/browser/execute"
+  }
+}

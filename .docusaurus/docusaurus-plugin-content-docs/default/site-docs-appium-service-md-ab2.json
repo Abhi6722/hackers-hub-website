@@ -1,0 +1,28 @@
+{
+  "unversionedId": "appium-service",
+  "id": "appium-service",
+  "isDocsHomePage": false,
+  "title": "Appium Service",
+  "description": "Handling the Appium server is out of scope of the actual WebdriverIO project. This service helps you to run the Appium server seamlessly when running tests with the WDIO testrunner. It starts the Appium Server in a child process.",
+  "source": "@site/docs/_appium-service.md",
+  "sourceDirName": ".",
+  "slug": "/appium-service",
+  "permalink": "/docs/appium-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-appium-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "appium-service",
+    "title": "Appium Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-appium-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Delta Reporter Reporter",
+    "permalink": "/docs/wdio-delta-reporter-service"
+  },
+  "next": {
+    "title": "Browserstack Service",
+    "permalink": "/docs/browserstack-service"
+  }
+}

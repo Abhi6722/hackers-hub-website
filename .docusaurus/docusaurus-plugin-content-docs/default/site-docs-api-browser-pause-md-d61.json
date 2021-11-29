@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/pause",
+  "id": "api/browser/pause",
+  "isDocsHomePage": false,
+  "title": "pause",
+  "description": "Pauses execution for a specific amount of time. It is recommended to not use this command to wait for an",
+  "source": "@site/docs/api/browser/_pause.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/pause",
+  "permalink": "/docs/api/browser/pause",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/pause.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pause",
+    "title": "pause",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/pause.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "overwriteCommand",
+    "permalink": "/docs/api/browser/overwriteCommand"
+  },
+  "next": {
+    "title": "react$$",
+    "permalink": "/docs/api/browser/react$$"
+  }
+}

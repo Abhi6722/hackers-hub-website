@@ -1,0 +1,27 @@
+{
+  "unversionedId": "pageobjects",
+  "id": "pageobjects",
+  "isDocsHomePage": false,
+  "title": "Page Object Pattern",
+  "description": "Version 5 of WebdriverIO was designed with Page Object Pattern support in mind. By introducing the \"elements as first class citizens\" principle, it is now possible to build up large test suites using this pattern.",
+  "source": "@site/docs/PageObjects.md",
+  "sourceDirName": ".",
+  "slug": "/pageobjects",
+  "permalink": "/docs/pageobjects",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/PageObjects.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "pageobjects",
+    "title": "Page Object Pattern"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Custom Commands",
+    "permalink": "/docs/customcommands"
+  },
+  "next": {
+    "title": "Debugging",
+    "permalink": "/docs/debugging"
+  }
+}

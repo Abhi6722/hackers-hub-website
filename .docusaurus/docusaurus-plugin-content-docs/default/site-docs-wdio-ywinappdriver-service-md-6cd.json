@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-ywinappdriver-service",
+  "id": "wdio-ywinappdriver-service",
+  "isDocsHomePage": false,
+  "title": "ywinappdriver Service",
+  "description": "wdio-ywinappdriver-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-ywinappdriver-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-ywinappdriver-service",
+  "permalink": "/docs/wdio-ywinappdriver-service",
+  "editUrl": "https://github.com/licanhua/wdio-ywinappdriver-service/edit/main//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-ywinappdriver-service",
+    "title": "ywinappdriver Service",
+    "custom_edit_url": "https://github.com/licanhua/wdio-ywinappdriver-service/edit/main//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "winappdriver Service",
+    "permalink": "/docs/wdio-winappdriver-service"
+  },
+  "next": {
+    "title": "PerformanceTotal Service",
+    "permalink": "/docs/wdio-performancetotal-service"
+  }
+}

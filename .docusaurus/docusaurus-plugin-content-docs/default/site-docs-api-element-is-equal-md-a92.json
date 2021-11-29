@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/isEqual",
+  "id": "api/element/isEqual",
+  "isDocsHomePage": false,
+  "title": "isEqual",
+  "description": "Return true if the selected element matches with the provided one.",
+  "source": "@site/docs/api/element/_isEqual.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/isEqual",
+  "permalink": "/docs/api/element/isEqual",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isEqual.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "isEqual",
+    "title": "isEqual",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isEqual.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "isEnabled",
+    "permalink": "/docs/api/element/isEnabled"
+  },
+  "next": {
+    "title": "isExisting",
+    "permalink": "/docs/api/element/isExisting"
+  }
+}

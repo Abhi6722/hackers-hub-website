@@ -1,0 +1,24 @@
+{
+  "unversionedId": "api/mock/restore",
+  "id": "api/mock/restore",
+  "isDocsHomePage": false,
+  "title": "restore",
+  "description": "Does everything that mock.clear() does, and also removes any mocked return values or implementations.",
+  "source": "@site/docs/api/mock/_restore.md",
+  "sourceDirName": "api/mock",
+  "slug": "/api/mock/restore",
+  "permalink": "/docs/api/mock/restore",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/restore.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "restore",
+    "title": "restore",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/restore.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "respondOnce",
+    "permalink": "/docs/api/mock/respondOnce"
+  }
+}

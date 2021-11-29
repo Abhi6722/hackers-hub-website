@@ -1,0 +1,27 @@
+{
+  "unversionedId": "driverbinaries",
+  "id": "driverbinaries",
+  "isDocsHomePage": false,
+  "title": "Driver Binaries",
+  "description": "To run automation based on the WebDriver protocol you need to have browser drivers set up that translate the automation commands and are able execute them in the browser. The following describes how you can set up each driver individually. You can find a list with all drivers in the awesome-selenium README.",
+  "source": "@site/docs/DriverBinaries.md",
+  "sourceDirName": ".",
+  "slug": "/driverbinaries",
+  "permalink": "/docs/driverbinaries",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/DriverBinaries.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "driverbinaries",
+    "title": "Driver Binaries"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Proxy Setup",
+    "permalink": "/docs/proxy"
+  },
+  "next": {
+    "title": "Selectors",
+    "permalink": "/docs/selectors"
+  }
+}

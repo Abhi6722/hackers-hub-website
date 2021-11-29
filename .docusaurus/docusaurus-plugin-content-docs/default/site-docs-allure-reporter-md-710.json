@@ -1,0 +1,28 @@
+{
+  "unversionedId": "allure-reporter",
+  "id": "allure-reporter",
+  "isDocsHomePage": false,
+  "title": "Allure Reporter",
+  "description": "A WebdriverIO reporter plugin to create Allure Test Reports.",
+  "source": "@site/docs/_allure-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/allure-reporter",
+  "permalink": "/docs/allure-reporter",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-allure-reporter/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "allure-reporter",
+    "title": "Allure Reporter",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-allure-reporter/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Bamboo",
+    "permalink": "/docs/bamboo"
+  },
+  "next": {
+    "title": "Concise Reporter",
+    "permalink": "/docs/concise-reporter"
+  }
+}

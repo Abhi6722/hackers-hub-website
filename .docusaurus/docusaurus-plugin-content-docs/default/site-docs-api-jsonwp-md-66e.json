@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/jsonwp",
+  "id": "api/jsonwp",
+  "isDocsHomePage": false,
+  "title": "JSON Wire Protocol",
+  "description": "The JSONWireProtocol is decrecated and replaced by the WebDriver",
+  "source": "@site/docs/api/_jsonwp.md",
+  "sourceDirName": "api",
+  "slug": "/api/jsonwp",
+  "permalink": "/docs/api/jsonwp",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/jsonwp.json",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "jsonwp",
+    "title": "JSON Wire Protocol",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/jsonwp.json"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Selenium Standalone",
+    "permalink": "/docs/api/selenium"
+  },
+  "next": {
+    "title": "$$",
+    "permalink": "/docs/api/browser/$$"
+  }
+}

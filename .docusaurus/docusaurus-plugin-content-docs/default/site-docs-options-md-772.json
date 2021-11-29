@@ -1,0 +1,27 @@
+{
+  "unversionedId": "options",
+  "id": "options",
+  "isDocsHomePage": false,
+  "title": "Options",
+  "description": "Based on the setup type (e.g. using the raw protocol bindings, WebdriverIO as standalone package or the WDIO testrunner) there is a different set of options available to control the environment.",
+  "source": "@site/docs/Options.md",
+  "sourceDirName": ".",
+  "slug": "/options",
+  "permalink": "/docs/options",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Options.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "options",
+    "title": "Options"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Auto-waiting",
+    "permalink": "/docs/autowait"
+  },
+  "next": {
+    "title": "Babel Setup",
+    "permalink": "/docs/babel"
+  }
+}

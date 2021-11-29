@@ -1,0 +1,28 @@
+{
+  "unversionedId": "rpii-wdio-html-reporter",
+  "id": "rpii-wdio-html-reporter",
+  "isDocsHomePage": false,
+  "title": "HTML Reporter",
+  "description": "@rpii/wdio-html-reporter is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_rpii-wdio-html-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/rpii-wdio-html-reporter",
+  "permalink": "/docs/rpii-wdio-html-reporter",
+  "editUrl": "https://github.com/rpii/wdio-html-reporter/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "rpii-wdio-html-reporter",
+    "title": "HTML Reporter",
+    "custom_edit_url": "https://github.com/rpii/wdio-html-reporter/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Video Reporter",
+    "permalink": "/docs/wdio-video-reporter"
+  },
+  "next": {
+    "title": "JSON Reporter",
+    "permalink": "/docs/wdio-json-reporter"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/getPuppeteer",
+  "id": "api/browser/getPuppeteer",
+  "isDocsHomePage": false,
+  "title": "getPuppeteer",
+  "description": "Get the Puppeteer Browser instance",
+  "source": "@site/docs/api/browser/_getPuppeteer.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/getPuppeteer",
+  "permalink": "/docs/api/browser/getPuppeteer",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/getPuppeteer.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getPuppeteer",
+    "title": "getPuppeteer",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/getPuppeteer.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getCookies",
+    "permalink": "/docs/api/browser/getCookies"
+  },
+  "next": {
+    "title": "getWindowSize",
+    "permalink": "/docs/api/browser/getWindowSize"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getComputedLabel",
+  "id": "api/element/getComputedLabel",
+  "isDocsHomePage": false,
+  "title": "getComputedLabel",
+  "description": "Get the computed WAI-ARIA label of an element.",
+  "source": "@site/docs/api/element/_getComputedLabel.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getComputedLabel",
+  "permalink": "/docs/api/element/getComputedLabel",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getComputedLabel.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getComputedLabel",
+    "title": "getComputedLabel",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getComputedLabel.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getCSSProperty",
+    "permalink": "/docs/api/element/getCSSProperty"
+  },
+  "next": {
+    "title": "getComputedRole",
+    "permalink": "/docs/api/element/getComputedRole"
+  }
+}

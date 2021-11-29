@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/mock/respond",
+  "id": "api/mock/respond",
+  "isDocsHomePage": false,
+  "title": "respond",
+  "description": "Always respond with same overwrite.",
+  "source": "@site/docs/api/mock/_respond.md",
+  "sourceDirName": "api/mock",
+  "slug": "/api/mock/respond",
+  "permalink": "/docs/api/mock/respond",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/respond.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "respond",
+    "title": "respond",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/respond.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "clear",
+    "permalink": "/docs/api/mock/clear"
+  },
+  "next": {
+    "title": "respondOnce",
+    "permalink": "/docs/api/mock/respondOnce"
+  }
+}

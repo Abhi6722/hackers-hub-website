@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/overwriteCommand",
+  "id": "api/browser/overwriteCommand",
+  "isDocsHomePage": false,
+  "title": "overwriteCommand",
+  "description": "The browser method overwriteCommand helps you to overwrite the browser's and element's native commands like pause and click.",
+  "source": "@site/docs/api/browser/_overwriteCommand.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/overwriteCommand",
+  "permalink": "/docs/api/browser/overwriteCommand",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/overwriteCommand.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "overwriteCommand",
+    "title": "overwriteCommand",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/overwriteCommand.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "newWindow",
+    "permalink": "/docs/api/browser/newWindow"
+  },
+  "next": {
+    "title": "pause",
+    "permalink": "/docs/api/browser/pause"
+  }
+}

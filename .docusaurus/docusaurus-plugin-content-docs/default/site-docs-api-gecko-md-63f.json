@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/gecko",
+  "id": "api/gecko",
+  "isDocsHomePage": false,
+  "title": "Firefox",
+  "description": "fullPageScreenshot",
+  "source": "@site/docs/api/_gecko.md",
+  "sourceDirName": "api",
+  "slug": "/api/gecko",
+  "permalink": "/docs/api/gecko",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/gecko.json",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "gecko",
+    "title": "Firefox",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/gecko.json"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Chromium",
+    "permalink": "/docs/api/chromium"
+  },
+  "next": {
+    "title": "Sauce Labs",
+    "permalink": "/docs/api/saucelabs"
+  }
+}

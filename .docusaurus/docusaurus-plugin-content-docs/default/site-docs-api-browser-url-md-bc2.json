@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/url",
+  "id": "api/browser/url",
+  "isDocsHomePage": false,
+  "title": "url",
+  "description": "Protocol binding to load the URL of the browser. If a baseUrl is",
+  "source": "@site/docs/api/browser/_url.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/url",
+  "permalink": "/docs/api/browser/url",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/url.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "url",
+    "title": "url",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/url.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "uploadFile",
+    "permalink": "/docs/api/browser/uploadFile"
+  },
+  "next": {
+    "title": "waitUntil",
+    "permalink": "/docs/api/browser/waitUntil"
+  }
+}

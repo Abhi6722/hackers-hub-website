@@ -1,0 +1,27 @@
+{
+  "unversionedId": "sync-vs-async",
+  "id": "sync-vs-async",
+  "isDocsHomePage": false,
+  "title": "Sync vs. Async Mode",
+  "description": "As of 14/04/2021 sync mode will not be supported anymore starting from Node.js v16 due to changes in Chromium. If you start a project with WebdriverIO we recommend to not use sync mode anymore. The community is working on a transition plan, read more on that in this RFC.",
+  "source": "@site/docs/SyncVsAsync.md",
+  "sourceDirName": ".",
+  "slug": "/sync-vs-async",
+  "permalink": "/docs/sync-vs-async",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/SyncVsAsync.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sync-vs-async",
+    "title": "Sync vs. Async Mode"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Setup Types",
+    "permalink": "/docs/setuptypes"
+  },
+  "next": {
+    "title": "Automation Protocols",
+    "permalink": "/docs/automationProtocols"
+  }
+}

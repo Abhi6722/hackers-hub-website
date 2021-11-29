@@ -1,0 +1,27 @@
+{
+  "unversionedId": "customservices",
+  "id": "customservices",
+  "isDocsHomePage": false,
+  "title": "Custom Services",
+  "description": "You can write your own custom service for the WDIO test runner to custom-fit your needs.",
+  "source": "@site/docs/CustomServices.md",
+  "sourceDirName": ".",
+  "slug": "/customservices",
+  "permalink": "/docs/customservices",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/CustomServices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "customservices",
+    "title": "Custom Services"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Custom Reporter",
+    "permalink": "/docs/customreporter"
+  },
+  "next": {
+    "title": "From v5 to v6",
+    "permalink": "/docs/v6-migration"
+  }
+}

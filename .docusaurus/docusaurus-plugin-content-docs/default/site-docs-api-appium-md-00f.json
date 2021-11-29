@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/appium",
+  "id": "api/appium",
+  "isDocsHomePage": false,
+  "title": "Appium",
+  "description": "shake",
+  "source": "@site/docs/api/_appium.md",
+  "sourceDirName": "api",
+  "slug": "/api/appium",
+  "permalink": "/docs/api/appium",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/appium.json",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "appium",
+    "title": "Appium",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/appium.json"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "WebDriver Protocol",
+    "permalink": "/docs/api/webdriver"
+  },
+  "next": {
+    "title": "Mobile JSON Wire Protocol",
+    "permalink": "/docs/api/mjsonwp"
+  }
+}

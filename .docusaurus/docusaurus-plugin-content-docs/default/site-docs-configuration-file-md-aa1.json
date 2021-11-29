@@ -1,0 +1,27 @@
+{
+  "unversionedId": "configurationfile",
+  "id": "configurationfile",
+  "isDocsHomePage": false,
+  "title": "Testrunner Configuration",
+  "description": "The configuration file contains all necessary information to run your test suite. It’s just a NodeJS module that exports a JSON.",
+  "source": "@site/docs/ConfigurationFile.md",
+  "sourceDirName": ".",
+  "slug": "/configurationfile",
+  "permalink": "/docs/configurationfile",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/ConfigurationFile.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "configurationfile",
+    "title": "Testrunner Configuration"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "WDIO CLI Options",
+    "permalink": "/docs/clioptions"
+  },
+  "next": {
+    "title": "Frameworks",
+    "permalink": "/docs/frameworks"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "autocompletion",
+  "id": "autocompletion",
+  "isDocsHomePage": false,
+  "title": "Autocompletion",
+  "description": "IntelliJ",
+  "source": "@site/docs/Autocompletion.md",
+  "sourceDirName": ".",
+  "slug": "/autocompletion",
+  "permalink": "/docs/autocompletion",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Autocompletion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "autocompletion",
+    "title": "Autocompletion"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Using Cloud Services",
+    "permalink": "/docs/cloudservices"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/docker"
+  }
+}

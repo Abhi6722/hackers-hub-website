@@ -1,0 +1,27 @@
+{
+  "unversionedId": "async-migration",
+  "id": "async-migration",
+  "isDocsHomePage": false,
+  "title": "From Sync to Async",
+  "description": "Due to changes in V8 the WebdriverIO team announced to deprecate synchronous command execution by April 2023. The team has been working hard to make the transition as easy as possible. In this guide we explain how you can slowly migrate your test suite from sync to async. As an example project we use the Cucumber Boilerplate but the approach is the same with all other projects as well.",
+  "source": "@site/docs/SyncAsyncMigration.md",
+  "sourceDirName": ".",
+  "slug": "/async-migration",
+  "permalink": "/docs/async-migration",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/SyncAsyncMigration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "async-migration",
+    "title": "From Sync to Async"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "From Protractor",
+    "permalink": "/docs/protractor-migration"
+  },
+  "next": {
+    "title": "Using Cloud Services",
+    "permalink": "/docs/cloudservices"
+  }
+}

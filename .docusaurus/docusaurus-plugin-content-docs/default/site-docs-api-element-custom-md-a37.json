@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/custom$",
+  "id": "api/element/custom$",
+  "isDocsHomePage": false,
+  "title": "custom$",
+  "description": "The custom$ allows you to use a custom strategy declared by using browser.addLocatorStrategy",
+  "source": "@site/docs/api/element/_custom$.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/custom$",
+  "permalink": "/docs/api/element/custom$",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/custom$.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "custom$",
+    "title": "custom$",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/custom$.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "custom$$",
+    "permalink": "/docs/api/element/custom$$"
+  },
+  "next": {
+    "title": "doubleClick",
+    "permalink": "/docs/api/element/doubleClick"
+  }
+}

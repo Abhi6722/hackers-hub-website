@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/waitForClickable",
+  "id": "api/element/waitForClickable",
+  "isDocsHomePage": false,
+  "title": "waitForClickable",
+  "description": "Wait for an element for the provided amount of milliseconds to be clickable or not clickable.",
+  "source": "@site/docs/api/element/_waitForClickable.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/waitForClickable",
+  "permalink": "/docs/api/element/waitForClickable",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitForClickable.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "waitForClickable",
+    "title": "waitForClickable",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitForClickable.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "touchAction",
+    "permalink": "/docs/api/element/touchAction"
+  },
+  "next": {
+    "title": "waitForDisplayed",
+    "permalink": "/docs/api/element/waitForDisplayed"
+  }
+}

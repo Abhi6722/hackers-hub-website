@@ -1,0 +1,27 @@
+{
+  "unversionedId": "assertion",
+  "id": "assertion",
+  "isDocsHomePage": false,
+  "title": "Assertion",
+  "description": "The WDIO testrunner comes with a built in assertion library that allows you to make powerful assertions on various aspects of the browser or elements within your (web) application. It extends Jests Matchers functionality with additional, for e2e testing optimized, matchers, e.g.:",
+  "source": "@site/docs/Assertion.md",
+  "sourceDirName": ".",
+  "slug": "/assertion",
+  "permalink": "/docs/assertion",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Assertion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "assertion",
+    "title": "Assertion"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Frameworks",
+    "permalink": "/docs/frameworks"
+  },
+  "next": {
+    "title": "Organizing Test Suite",
+    "permalink": "/docs/organizingsuites"
+  }
+}

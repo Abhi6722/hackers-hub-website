@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-eslinter-service",
+  "id": "wdio-eslinter-service",
+  "isDocsHomePage": false,
+  "title": "Auto-detect missing imports w/eslint Service",
+  "description": "wdio-eslinter-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-eslinter-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-eslinter-service",
+  "permalink": "/docs/wdio-eslinter-service",
+  "editUrl": "https://github.com/jamesmortensen/wdio-eslinter-service/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-eslinter-service",
+    "title": "Auto-detect missing imports w/eslint Service",
+    "custom_edit_url": "https://github.com/jamesmortensen/wdio-eslinter-service/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Library of useful expected conditions Service",
+    "permalink": "/docs/wdio-wait-for"
+  },
+  "next": {
+    "title": "Microsoft Teams Service",
+    "permalink": "/docs/wdio-ms-teams-service"
+  }
+}

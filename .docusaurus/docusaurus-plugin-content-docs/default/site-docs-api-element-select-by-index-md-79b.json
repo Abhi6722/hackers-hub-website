@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/selectByIndex",
+  "id": "api/element/selectByIndex",
+  "isDocsHomePage": false,
+  "title": "selectByIndex",
+  "description": "Select option with a specific index.",
+  "source": "@site/docs/api/element/_selectByIndex.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/selectByIndex",
+  "permalink": "/docs/api/element/selectByIndex",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/selectByIndex.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "selectByIndex",
+    "title": "selectByIndex",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/selectByIndex.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "selectByAttribute",
+    "permalink": "/docs/api/element/selectByAttribute"
+  },
+  "next": {
+    "title": "selectByVisibleText",
+    "permalink": "/docs/api/element/selectByVisibleText"
+  }
+}

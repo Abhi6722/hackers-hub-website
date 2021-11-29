@@ -1,0 +1,27 @@
+{
+  "unversionedId": "v7-migration",
+  "id": "v7-migration",
+  "isDocsHomePage": false,
+  "title": "From v6 to v7",
+  "description": "This tutorial is for people who are still using v6 of WebdriverIO and want to migrate to v7. As mentioned in our release blog post the changes are mostly under the hood and upgrading should be a straight forward process.",
+  "source": "@site/docs/v7Migration.md",
+  "sourceDirName": ".",
+  "slug": "/v7-migration",
+  "permalink": "/docs/v7-migration",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/v7Migration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "v7-migration",
+    "title": "From v6 to v7"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "From v5 to v6",
+    "permalink": "/docs/v6-migration"
+  },
+  "next": {
+    "title": "From Protractor",
+    "permalink": "/docs/protractor-migration"
+  }
+}

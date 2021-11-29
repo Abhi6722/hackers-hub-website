@@ -1,0 +1,23 @@
+{
+  "unversionedId": "flowcharts/highleveloverview",
+  "id": "flowcharts/highleveloverview",
+  "isDocsHomePage": false,
+  "title": "High level overview",
+  "description": "Flow chart provides a high level overview of how the WebdriverIO ecosystem interacts with the core packages.",
+  "source": "@site/docs/flowcharts/HighLevelOverview.md",
+  "sourceDirName": "flowcharts",
+  "slug": "/flowcharts/highleveloverview",
+  "permalink": "/docs/flowcharts/highleveloverview",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/flowcharts/HighLevelOverview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "highleveloverview",
+    "title": "High level overview"
+  },
+  "sidebar": "flowcharts",
+  "previous": {
+    "title": "Test Execution",
+    "permalink": "/docs/flowcharts/testexecution"
+  }
+}

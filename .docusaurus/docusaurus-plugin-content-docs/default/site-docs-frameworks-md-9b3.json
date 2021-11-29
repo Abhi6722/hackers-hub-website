@@ -1,0 +1,27 @@
+{
+  "unversionedId": "frameworks",
+  "id": "frameworks",
+  "isDocsHomePage": false,
+  "title": "Frameworks",
+  "description": "The WDIO runner currently supports Mocha,  Jasmine, and Cucumber.",
+  "source": "@site/docs/Frameworks.md",
+  "sourceDirName": ".",
+  "slug": "/frameworks",
+  "permalink": "/docs/frameworks",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Frameworks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "frameworks",
+    "title": "Frameworks"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Testrunner Configuration",
+    "permalink": "/docs/configurationfile"
+  },
+  "next": {
+    "title": "Assertion",
+    "permalink": "/docs/assertion"
+  }
+}

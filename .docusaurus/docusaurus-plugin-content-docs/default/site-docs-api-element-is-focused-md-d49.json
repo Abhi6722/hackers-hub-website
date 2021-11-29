@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/isFocused",
+  "id": "api/element/isFocused",
+  "isDocsHomePage": false,
+  "title": "isFocused",
+  "description": "Return true or false if the selected DOM-element currently has focus. If the selector matches",
+  "source": "@site/docs/api/element/_isFocused.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/isFocused",
+  "permalink": "/docs/api/element/isFocused",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isFocused.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "isFocused",
+    "title": "isFocused",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isFocused.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "isExisting",
+    "permalink": "/docs/api/element/isExisting"
+  },
+  "next": {
+    "title": "isSelected",
+    "permalink": "/docs/api/element/isSelected"
+  }
+}

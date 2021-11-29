@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/click",
+  "id": "api/element/click",
+  "isDocsHomePage": false,
+  "title": "click",
+  "description": "Click on an element.",
+  "source": "@site/docs/api/element/_click.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/click",
+  "permalink": "/docs/api/element/click",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/click.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "click",
+    "title": "click",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/click.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "clearValue",
+    "permalink": "/docs/api/element/clearValue"
+  },
+  "next": {
+    "title": "custom$$",
+    "permalink": "/docs/api/element/custom$$"
+  }
+}

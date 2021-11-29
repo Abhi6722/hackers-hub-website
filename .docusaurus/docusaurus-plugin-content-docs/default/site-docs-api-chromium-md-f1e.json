@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/chromium",
+  "id": "api/chromium",
+  "isDocsHomePage": false,
+  "title": "Chromium",
+  "description": "isAlertOpen",
+  "source": "@site/docs/api/_chromium.md",
+  "sourceDirName": "api",
+  "slug": "/api/chromium",
+  "permalink": "/docs/api/chromium",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/chromium.json",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "chromium",
+    "title": "Chromium",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/chromium.json"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Mobile JSON Wire Protocol",
+    "permalink": "/docs/api/mjsonwp"
+  },
+  "next": {
+    "title": "Firefox",
+    "permalink": "/docs/api/gecko"
+  }
+}

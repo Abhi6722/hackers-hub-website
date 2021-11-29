@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/call",
+  "id": "api/browser/call",
+  "isDocsHomePage": false,
+  "title": "call",
+  "description": "You can use call to execute any async action within your test spec. The command itself",
+  "source": "@site/docs/api/browser/_call.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/call",
+  "permalink": "/docs/api/browser/call",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/call.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "call",
+    "title": "call",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/call.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "addCommand",
+    "permalink": "/docs/api/browser/addCommand"
+  },
+  "next": {
+    "title": "custom$$",
+    "permalink": "/docs/api/browser/custom$$"
+  }
+}

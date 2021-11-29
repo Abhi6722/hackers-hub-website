@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/07/01/office-hours",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2020-07-01-office-hours.md",
+  "source": "@site/blog/2020-07-01-office-hours.md",
+  "title": "WebdriverIO Open Office Hours",
+  "description": "Contributing to a big Open Source project can be hard. Especially if the codebase is large and requires a lot of context to understand what certain changes do. Then there is the possibility that tools or infrastructure is being used that are unknown. Nevertheless the project depends on your contributions and help to identify bugs and fix them. How can we overcome this hurdle?",
+  "date": "2020-07-01T00:00:00.000Z",
+  "formattedDate": "July 1, 2020",
+  "tags": [],
+  "readingTime": 1.545,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Christian Bromann",
+      "url": "http://twitter.com/bromann",
+      "imageURL": "https://s.gravatar.com/avatar/d98b16d7c93d15865f34a225dd4b1254?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "New Network Primitives (Beta)",
+    "permalink": "/blog/2020/07/10/network-primitives"
+  },
+  "nextItem": {
+    "title": "WebdriverIO v6 Released",
+    "permalink": "/blog/2020/03/26/webdriverio-v6-released"
+  }
+}

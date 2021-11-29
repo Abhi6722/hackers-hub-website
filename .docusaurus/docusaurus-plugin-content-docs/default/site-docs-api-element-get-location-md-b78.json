@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getLocation",
+  "id": "api/element/getLocation",
+  "isDocsHomePage": false,
+  "title": "getLocation",
+  "description": "Determine an element’s location on the page. The point (0, 0) refers to",
+  "source": "@site/docs/api/element/_getLocation.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getLocation",
+  "permalink": "/docs/api/element/getLocation",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getLocation.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getLocation",
+    "title": "getLocation",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getLocation.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getHTML",
+    "permalink": "/docs/api/element/getHTML"
+  },
+  "next": {
+    "title": "getProperty",
+    "permalink": "/docs/api/element/getProperty"
+  }
+}

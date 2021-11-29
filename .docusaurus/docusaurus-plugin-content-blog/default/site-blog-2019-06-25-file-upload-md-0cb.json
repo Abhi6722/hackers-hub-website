@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2019/06/25/file-upload",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2019-06-25-file-upload.md",
+  "source": "@site/blog/2019-06-25-file-upload.md",
+  "title": "File Uploads with WebdriverIO",
+  "description": "Testing an upload scenario in the browser is a rare but not uncommon case in the automation testing space. It is always important to evaluate the importance of such a test because in many situations you end up testing the browser more than your application. So always keep in mind how much additional functionality your frontend application puts on top of the default upload behavior of the browser. If for example most of the magic happens in the backend it makes much more sense to mimik an upload using a simple Node.js POST request using packages like request or axios.",
+  "date": "2019-06-25T00:00:00.000Z",
+  "formattedDate": "June 25, 2019",
+  "tags": [],
+  "readingTime": 3.21,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Christian Bromann",
+      "url": "https://twitter.com/bromann",
+      "imageURL": "https://s.gravatar.com/avatar/d98b16d7c93d15865f34a225dd4b1254?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "WebdriverIO V5 now also supports CucumberJS",
+    "permalink": "/blog/2019/07/11/cucumberjs-v5-released"
+  },
+  "nextItem": {
+    "title": "Visual Regression for V5",
+    "permalink": "/blog/2019/05/18/visual-regression-for-v5"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "v6-migration",
+  "id": "v6-migration",
+  "isDocsHomePage": false,
+  "title": "From v5 to v6",
+  "description": "This tutorial is for people who are still using v5 of WebdriverIO and want to migrate to v6 or to the latest version of WebdriverIO. As mentioned in our release blog post the changes for this version upgrade can be summarised as following:",
+  "source": "@site/docs/v6Migration.md",
+  "sourceDirName": ".",
+  "slug": "/v6-migration",
+  "permalink": "/docs/v6-migration",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/v6Migration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "v6-migration",
+    "title": "From v5 to v6"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Custom Services",
+    "permalink": "/docs/customservices"
+  },
+  "next": {
+    "title": "From v6 to v7",
+    "permalink": "/docs/v7-migration"
+  }
+}

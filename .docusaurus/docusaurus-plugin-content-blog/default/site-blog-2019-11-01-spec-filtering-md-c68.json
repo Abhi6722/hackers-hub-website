@@ -1,0 +1,26 @@
+{
+  "permalink": "/blog/2019/11/01/spec-filtering",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2019-11-01-spec-filtering.md",
+  "source": "@site/blog/2019-11-01-spec-filtering.md",
+  "title": "Avoid starting session for excluded specs",
+  "description": "It's a common approach to filter specs with tags, grep or any other techniques, however we had a gotcha here before - a new session is created for every spec file which takes some time, especially for mobile tests.",
+  "date": "2019-11-01T00:00:00.000Z",
+  "formattedDate": "November 1, 2019",
+  "tags": [],
+  "readingTime": 1.895,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mykola Grybyk",
+      "url": "http://github.com/mgrybyk"
+    }
+  ],
+  "prevItem": {
+    "title": "WireMock as a Service",
+    "permalink": "/blog/2019/12/05/wiremock"
+  },
+  "nextItem": {
+    "title": "Chrome DevTools as Automation Protocol",
+    "permalink": "/blog/2019/09/16/devtools"
+  }
+}

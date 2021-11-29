@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/setValue",
+  "id": "api/element/setValue",
+  "isDocsHomePage": false,
+  "title": "setValue",
+  "description": "Send a sequence of key strokes to an element (clears value before). If the element",
+  "source": "@site/docs/api/element/_setValue.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/setValue",
+  "permalink": "/docs/api/element/setValue",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/setValue.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "setValue",
+    "title": "setValue",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/setValue.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "selectByVisibleText",
+    "permalink": "/docs/api/element/selectByVisibleText"
+  },
+  "next": {
+    "title": "shadow$$",
+    "permalink": "/docs/api/element/shadow$$"
+  }
+}

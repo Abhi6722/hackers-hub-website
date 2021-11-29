@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/mjsonwp",
+  "id": "api/mjsonwp",
+  "isDocsHomePage": false,
+  "title": "Mobile JSON Wire Protocol",
+  "description": "getContext",
+  "source": "@site/docs/api/_mjsonwp.md",
+  "sourceDirName": "api",
+  "slug": "/api/mjsonwp",
+  "permalink": "/docs/api/mjsonwp",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/mjsonwp.json",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mjsonwp",
+    "title": "Mobile JSON Wire Protocol",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/mjsonwp.json"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Appium",
+    "permalink": "/docs/api/appium"
+  },
+  "next": {
+    "title": "Chromium",
+    "permalink": "/docs/api/chromium"
+  }
+}

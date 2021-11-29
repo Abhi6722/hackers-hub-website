@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/mock",
+  "id": "api/browser/mock",
+  "isDocsHomePage": false,
+  "title": "mock",
+  "description": "Mock the response of a request. You can define a mock based on a matching",
+  "source": "@site/docs/api/browser/_mock.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/mock",
+  "permalink": "/docs/api/browser/mock",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/mock.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mock",
+    "title": "mock",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/mock.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "keys",
+    "permalink": "/docs/api/browser/keys"
+  },
+  "next": {
+    "title": "mockClearAll",
+    "permalink": "/docs/api/browser/mockClearAll"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "browserstack-service",
+  "id": "browserstack-service",
+  "isDocsHomePage": false,
+  "title": "Browserstack Service",
+  "description": "A WebdriverIO service that manages local tunnel and job metadata for Browserstack users.",
+  "source": "@site/docs/_browserstack-service.md",
+  "sourceDirName": ".",
+  "slug": "/browserstack-service",
+  "permalink": "/docs/browserstack-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-browserstack-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "browserstack-service",
+    "title": "Browserstack Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-browserstack-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Appium Service",
+    "permalink": "/docs/appium-service"
+  },
+  "next": {
+    "title": "Crossbrowsertesting Service",
+    "permalink": "/docs/crossbrowsertesting-service"
+  }
+}

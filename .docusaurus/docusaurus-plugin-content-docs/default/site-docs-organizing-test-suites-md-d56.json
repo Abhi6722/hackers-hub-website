@@ -1,0 +1,27 @@
+{
+  "unversionedId": "organizingsuites",
+  "id": "organizingsuites",
+  "isDocsHomePage": false,
+  "title": "Organizing Test Suite",
+  "description": "As projects grow, inevitably more and more integration tests are added. This increases build time and slows productivity.",
+  "source": "@site/docs/OrganizingTestSuites.md",
+  "sourceDirName": ".",
+  "slug": "/organizingsuites",
+  "permalink": "/docs/organizingsuites",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/OrganizingTestSuites.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "organizingsuites",
+    "title": "Organizing Test Suite"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Assertion",
+    "permalink": "/docs/assertion"
+  },
+  "next": {
+    "title": "Retry Flaky Tests",
+    "permalink": "/docs/retry"
+  }
+}

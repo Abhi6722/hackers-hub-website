@@ -1,0 +1,18 @@
+{
+  "unversionedId": "donate",
+  "id": "donate",
+  "isDocsHomePage": false,
+  "title": "Donate",
+  "description": "If your company uses WebdriverIO and benefits from it, please ask your manager or your marketing team to support the project by donating to the collective. Support will allow the maintainers to dedicate more time for maintenance and new features for everyone.",
+  "source": "@site/community/Donate.md",
+  "sourceDirName": ".",
+  "slug": "/donate",
+  "permalink": "/community/donate",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/community/Donate.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "donate",
+    "title": "Donate"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "repl",
+  "id": "repl",
+  "isDocsHomePage": false,
+  "title": "REPL interface",
+  "description": "With v4.5.0, WebdriverIO introduced a REPL interface that helps you to not only learn the framework API, but also debug and inspect your tests. It can be used in multiple ways.",
+  "source": "@site/docs/repl.md",
+  "sourceDirName": ".",
+  "slug": "/repl",
+  "permalink": "/docs/repl",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/repl.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "repl",
+    "title": "REPL interface"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Debugging",
+    "permalink": "/docs/debugging"
+  },
+  "next": {
+    "title": "WDIO CLI Options",
+    "permalink": "/docs/clioptions"
+  }
+}

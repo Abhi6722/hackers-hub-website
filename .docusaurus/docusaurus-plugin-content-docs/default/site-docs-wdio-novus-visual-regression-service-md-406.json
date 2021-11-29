@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-novus-visual-regression-service",
+  "id": "wdio-novus-visual-regression-service",
+  "isDocsHomePage": false,
+  "title": "Novus Visual Regression Service",
+  "description": "wdio-novus-visual-regression-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-novus-visual-regression-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-novus-visual-regression-service",
+  "permalink": "/docs/wdio-novus-visual-regression-service",
+  "editUrl": "https://github.com/Jnegrier/wdio-novus-visual-regression-service/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-novus-visual-regression-service",
+    "title": "Novus Visual Regression Service",
+    "custom_edit_url": "https://github.com/Jnegrier/wdio-novus-visual-regression-service/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Ng-apimock Service",
+    "permalink": "/docs/wdio-ng-apimock-service"
+  },
+  "next": {
+    "title": "Re-run Service",
+    "permalink": "/docs/wdio-rerun-service"
+  }
+}

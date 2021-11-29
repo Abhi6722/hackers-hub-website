@@ -1,0 +1,28 @@
+{
+  "unversionedId": "devtools-service",
+  "id": "devtools-service",
+  "isDocsHomePage": false,
+  "title": "Devtools Service",
+  "description": "A WebdriverIO service that allows you to run Chrome DevTools commands in your tests",
+  "source": "@site/docs/_devtools-service.md",
+  "sourceDirName": ".",
+  "slug": "/devtools-service",
+  "permalink": "/docs/devtools-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-devtools-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "devtools-service",
+    "title": "Devtools Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-devtools-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Crossbrowsertesting Service",
+    "permalink": "/docs/crossbrowsertesting-service"
+  },
+  "next": {
+    "title": "Firefox Profile Service",
+    "permalink": "/docs/firefox-profile-service"
+  }
+}

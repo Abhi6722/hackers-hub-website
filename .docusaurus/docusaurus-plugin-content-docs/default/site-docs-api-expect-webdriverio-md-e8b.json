@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/expect-webdriverio",
+  "id": "api/expect-webdriverio",
+  "isDocsHomePage": false,
+  "title": "Expect",
+  "description": "When you're writing tests, you often need to check that values meet certain conditions. expect gives you access to a number of \"matchers\" that let you validate different things on the browser, an element or mock object.",
+  "source": "@site/docs/api/_expect-webdriverio.md",
+  "sourceDirName": "api",
+  "slug": "/api/expect-webdriverio",
+  "permalink": "/docs/api/expect-webdriverio",
+  "editUrl": "https://github.com/webdriverio/expect-webdriverio/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "expect-webdriverio",
+    "title": "Expect",
+    "custom_edit_url": "https://github.com/webdriverio/expect-webdriverio/edit/master//README.md"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/api"
+  },
+  "next": {
+    "title": "WebDriver Protocol",
+    "permalink": "/docs/api/webdriver"
+  }
+}

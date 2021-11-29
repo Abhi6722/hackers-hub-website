@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cloudservices",
+  "id": "cloudservices",
+  "isDocsHomePage": false,
+  "title": "Using Cloud Services",
+  "description": "Using on-demand services like Sauce Labs, Browserstack, TestingBot, CrossBrowserTesting or LambdaTest with WebdriverIO is pretty simple. All you need to do is to set your service's user and key in your options.",
+  "source": "@site/docs/CloudServices.md",
+  "sourceDirName": ".",
+  "slug": "/cloudservices",
+  "permalink": "/docs/cloudservices",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/CloudServices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "cloudservices",
+    "title": "Using Cloud Services"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "From Sync to Async",
+    "permalink": "/docs/async-migration"
+  },
+  "next": {
+    "title": "Autocompletion",
+    "permalink": "/docs/autocompletion"
+  }
+}

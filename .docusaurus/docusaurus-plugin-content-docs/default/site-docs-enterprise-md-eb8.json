@@ -1,0 +1,18 @@
+{
+  "unversionedId": "enterprise",
+  "id": "enterprise",
+  "isDocsHomePage": false,
+  "title": "WebdriverIO for Enterprise",
+  "description": "Available as part of the Tidelift Subscription",
+  "source": "@site/docs/Enterprise.md",
+  "sourceDirName": ".",
+  "slug": "/enterprise",
+  "permalink": "/docs/enterprise",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Enterprise.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "enterprise",
+    "title": "WebdriverIO for Enterprise"
+  }
+}

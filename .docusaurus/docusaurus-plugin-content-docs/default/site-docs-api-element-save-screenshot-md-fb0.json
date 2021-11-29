@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/saveScreenshot",
+  "id": "api/element/saveScreenshot",
+  "isDocsHomePage": false,
+  "title": "saveScreenshot",
+  "description": "Save a screenshot of an element to a PNG file on your OS.",
+  "source": "@site/docs/api/element/_saveScreenshot.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/saveScreenshot",
+  "permalink": "/docs/api/element/saveScreenshot",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/saveScreenshot.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "saveScreenshot",
+    "title": "saveScreenshot",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/saveScreenshot.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "react$",
+    "permalink": "/docs/api/element/react$"
+  },
+  "next": {
+    "title": "scrollIntoView",
+    "permalink": "/docs/api/element/scrollIntoView"
+  }
+}

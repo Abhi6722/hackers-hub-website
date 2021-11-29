@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/shadow$",
+  "id": "api/element/shadow$",
+  "isDocsHomePage": false,
+  "title": "shadow$",
+  "description": "Access an element inside a given element's shadowRoot. If you are working",
+  "source": "@site/docs/api/element/_shadow$.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/shadow$",
+  "permalink": "/docs/api/element/shadow$",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/shadow$.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "shadow$",
+    "title": "shadow$",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/shadow$.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "shadow$$",
+    "permalink": "/docs/api/element/shadow$$"
+  },
+  "next": {
+    "title": "touchAction",
+    "permalink": "/docs/api/element/touchAction"
+  }
+}

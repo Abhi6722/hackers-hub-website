@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getAttribute",
+  "id": "api/element/getAttribute",
+  "isDocsHomePage": false,
+  "title": "getAttribute",
+  "description": "Get an attribute from a DOM-element based on the attribute name.",
+  "source": "@site/docs/api/element/_getAttribute.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getAttribute",
+  "permalink": "/docs/api/element/getAttribute",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getAttribute.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getAttribute",
+    "title": "getAttribute",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getAttribute.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "dragAndDrop",
+    "permalink": "/docs/api/element/dragAndDrop"
+  },
+  "next": {
+    "title": "getCSSProperty",
+    "permalink": "/docs/api/element/getCSSProperty"
+  }
+}

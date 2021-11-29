@@ -1,0 +1,27 @@
+{
+  "unversionedId": "boilerplates",
+  "id": "boilerplates",
+  "isDocsHomePage": false,
+  "title": "Boilerplate Projects",
+  "description": "Over time, our community has developed several projects that you can use as inspiration to set up your own test suite.",
+  "source": "@site/docs/BoilerplateProjects.md",
+  "sourceDirName": ".",
+  "slug": "/boilerplates",
+  "permalink": "/docs/boilerplates",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/BoilerplateProjects.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "boilerplates",
+    "title": "Boilerplate Projects"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/gettingstarted"
+  },
+  "next": {
+    "title": "Setup Types",
+    "permalink": "/docs/setuptypes"
+  }
+}

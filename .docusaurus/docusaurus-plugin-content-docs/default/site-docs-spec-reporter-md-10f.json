@@ -1,0 +1,28 @@
+{
+  "unversionedId": "spec-reporter",
+  "id": "spec-reporter",
+  "isDocsHomePage": false,
+  "title": "Spec Reporter",
+  "description": "A WebdriverIO plugin to report in spec style.",
+  "source": "@site/docs/_spec-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/spec-reporter",
+  "permalink": "/docs/spec-reporter",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-spec-reporter/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "spec-reporter",
+    "title": "Spec Reporter",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-spec-reporter/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Junit Reporter",
+    "permalink": "/docs/junit-reporter"
+  },
+  "next": {
+    "title": "Sumologic Reporter",
+    "permalink": "/docs/sumologic-reporter"
+  }
+}

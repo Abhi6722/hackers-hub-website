@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-cucumberjs-json-reporter",
+  "id": "wdio-cucumberjs-json-reporter",
+  "isDocsHomePage": false,
+  "title": "CucumberJS JSON Reporter",
+  "description": "wdio-cucumberjs-json-reporter is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-cucumberjs-json-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-cucumberjs-json-reporter",
+  "permalink": "/docs/wdio-cucumberjs-json-reporter",
+  "editUrl": "https://github.com/wswebcreation/wdio-cucumberjs-json-reporter/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-cucumberjs-json-reporter",
+    "title": "CucumberJS JSON Reporter",
+    "custom_edit_url": "https://github.com/wswebcreation/wdio-cucumberjs-json-reporter/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Timeline Reporter",
+    "permalink": "/docs/wdio-timeline-reporter"
+  },
+  "next": {
+    "title": "Markdown Reporter",
+    "permalink": "/docs/wdio-markdown-reporter"
+  }
+}

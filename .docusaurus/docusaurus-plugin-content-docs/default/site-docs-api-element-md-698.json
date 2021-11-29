@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/$$",
+  "id": "api/element/$$",
+  "isDocsHomePage": false,
+  "title": "$$",
+  "description": "The $$ command is a short way to call the findElements command in order",
+  "source": "@site/docs/api/element/_$$.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/$$",
+  "permalink": "/docs/api/element/$$",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/$$.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "$$",
+    "title": "$$",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/$$.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "waitUntil",
+    "permalink": "/docs/api/browser/waitUntil"
+  },
+  "next": {
+    "title": "$",
+    "permalink": "/docs/api/element/$"
+  }
+}

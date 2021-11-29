@@ -1,0 +1,1023 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "community": {
+      "path": "/community",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/community",
+          "mainDocId": "donate",
+          "docs": [
+            {
+              "id": "donate",
+              "path": "/community/donate"
+            },
+            {
+              "id": "materials",
+              "path": "/community/materials"
+            },
+            {
+              "id": "openofficehours",
+              "path": "/community/openofficehours"
+            },
+            {
+              "id": "resources",
+              "path": "/community/resources"
+            },
+            {
+              "id": "support",
+              "path": "/community/support"
+            },
+            {
+              "id": "team",
+              "path": "/community/team"
+            }
+          ]
+        }
+      ]
+    },
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "what-is-webdriverio",
+          "docs": [
+            {
+              "id": "allure-reporter",
+              "path": "/docs/allure-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "api",
+              "path": "/docs/api",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/appium",
+              "path": "/docs/api/appium",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/$",
+              "path": "/docs/api/browser/$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/$$",
+              "path": "/docs/api/browser/$$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/addCommand",
+              "path": "/docs/api/browser/addCommand",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/call",
+              "path": "/docs/api/browser/call",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/custom$",
+              "path": "/docs/api/browser/custom$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/custom$$",
+              "path": "/docs/api/browser/custom$$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/debug",
+              "path": "/docs/api/browser/debug",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/deleteCookies",
+              "path": "/docs/api/browser/deleteCookies",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/execute",
+              "path": "/docs/api/browser/execute",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/executeAsync",
+              "path": "/docs/api/browser/executeAsync",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/getCookies",
+              "path": "/docs/api/browser/getCookies",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/getPuppeteer",
+              "path": "/docs/api/browser/getPuppeteer",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/getWindowSize",
+              "path": "/docs/api/browser/getWindowSize",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/keys",
+              "path": "/docs/api/browser/keys",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/mock",
+              "path": "/docs/api/browser/mock",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/mockClearAll",
+              "path": "/docs/api/browser/mockClearAll",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/mockRestoreAll",
+              "path": "/docs/api/browser/mockRestoreAll",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/newWindow",
+              "path": "/docs/api/browser/newWindow",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/overwriteCommand",
+              "path": "/docs/api/browser/overwriteCommand",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/pause",
+              "path": "/docs/api/browser/pause",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/react$",
+              "path": "/docs/api/browser/react$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/react$$",
+              "path": "/docs/api/browser/react$$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/reloadSession",
+              "path": "/docs/api/browser/reloadSession",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/savePDF",
+              "path": "/docs/api/browser/savePDF",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/saveRecordingScreen",
+              "path": "/docs/api/browser/saveRecordingScreen",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/saveScreenshot",
+              "path": "/docs/api/browser/saveScreenshot",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/setCookies",
+              "path": "/docs/api/browser/setCookies",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/setTimeout",
+              "path": "/docs/api/browser/setTimeout",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/setWindowSize",
+              "path": "/docs/api/browser/setWindowSize",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/switchWindow",
+              "path": "/docs/api/browser/switchWindow",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/throttle",
+              "path": "/docs/api/browser/throttle",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/touchAction",
+              "path": "/docs/api/browser/touchAction",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/uploadFile",
+              "path": "/docs/api/browser/uploadFile",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/url",
+              "path": "/docs/api/browser/url",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/browser/waitUntil",
+              "path": "/docs/api/browser/waitUntil",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/chromium",
+              "path": "/docs/api/chromium",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/$",
+              "path": "/docs/api/element/$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/$$",
+              "path": "/docs/api/element/$$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/addValue",
+              "path": "/docs/api/element/addValue",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/clearValue",
+              "path": "/docs/api/element/clearValue",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/click",
+              "path": "/docs/api/element/click",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/custom$",
+              "path": "/docs/api/element/custom$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/custom$$",
+              "path": "/docs/api/element/custom$$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/doubleClick",
+              "path": "/docs/api/element/doubleClick",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/dragAndDrop",
+              "path": "/docs/api/element/dragAndDrop",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getAttribute",
+              "path": "/docs/api/element/getAttribute",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getComputedLabel",
+              "path": "/docs/api/element/getComputedLabel",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getComputedRole",
+              "path": "/docs/api/element/getComputedRole",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getCSSProperty",
+              "path": "/docs/api/element/getCSSProperty",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getHTML",
+              "path": "/docs/api/element/getHTML",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getLocation",
+              "path": "/docs/api/element/getLocation",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getProperty",
+              "path": "/docs/api/element/getProperty",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getSize",
+              "path": "/docs/api/element/getSize",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getTagName",
+              "path": "/docs/api/element/getTagName",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getText",
+              "path": "/docs/api/element/getText",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/getValue",
+              "path": "/docs/api/element/getValue",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/isClickable",
+              "path": "/docs/api/element/isClickable",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/isDisplayed",
+              "path": "/docs/api/element/isDisplayed",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/isDisplayedInViewport",
+              "path": "/docs/api/element/isDisplayedInViewport",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/isEnabled",
+              "path": "/docs/api/element/isEnabled",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/isEqual",
+              "path": "/docs/api/element/isEqual",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/isExisting",
+              "path": "/docs/api/element/isExisting",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/isFocused",
+              "path": "/docs/api/element/isFocused",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/isSelected",
+              "path": "/docs/api/element/isSelected",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/moveTo",
+              "path": "/docs/api/element/moveTo",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/nextElement",
+              "path": "/docs/api/element/nextElement",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/parentElement",
+              "path": "/docs/api/element/parentElement",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/previousElement",
+              "path": "/docs/api/element/previousElement",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/react$",
+              "path": "/docs/api/element/react$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/react$$",
+              "path": "/docs/api/element/react$$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/saveScreenshot",
+              "path": "/docs/api/element/saveScreenshot",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/scrollIntoView",
+              "path": "/docs/api/element/scrollIntoView",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/selectByAttribute",
+              "path": "/docs/api/element/selectByAttribute",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/selectByIndex",
+              "path": "/docs/api/element/selectByIndex",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/selectByVisibleText",
+              "path": "/docs/api/element/selectByVisibleText",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/setValue",
+              "path": "/docs/api/element/setValue",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/shadow$",
+              "path": "/docs/api/element/shadow$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/shadow$$",
+              "path": "/docs/api/element/shadow$$",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/touchAction",
+              "path": "/docs/api/element/touchAction",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/waitForClickable",
+              "path": "/docs/api/element/waitForClickable",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/waitForDisplayed",
+              "path": "/docs/api/element/waitForDisplayed",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/waitForEnabled",
+              "path": "/docs/api/element/waitForEnabled",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/waitForExist",
+              "path": "/docs/api/element/waitForExist",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/element/waitUntil",
+              "path": "/docs/api/element/waitUntil",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/expect-webdriverio",
+              "path": "/docs/api/expect-webdriverio",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/gecko",
+              "path": "/docs/api/gecko",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/jsonwp",
+              "path": "/docs/api/jsonwp",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/mjsonwp",
+              "path": "/docs/api/mjsonwp",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/mock/abort",
+              "path": "/docs/api/mock/abort",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/mock/abortOnce",
+              "path": "/docs/api/mock/abortOnce",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/mock/clear",
+              "path": "/docs/api/mock/clear",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/mock/respond",
+              "path": "/docs/api/mock/respond",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/mock/respondOnce",
+              "path": "/docs/api/mock/respondOnce",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/mock/restore",
+              "path": "/docs/api/mock/restore",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/saucelabs",
+              "path": "/docs/api/saucelabs",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/selenium",
+              "path": "/docs/api/selenium",
+              "sidebar": "api"
+            },
+            {
+              "id": "api/webdriver",
+              "path": "/docs/api/webdriver",
+              "sidebar": "api"
+            },
+            {
+              "id": "appium-service",
+              "path": "/docs/appium-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "assertion",
+              "path": "/docs/assertion",
+              "sidebar": "docs"
+            },
+            {
+              "id": "async-migration",
+              "path": "/docs/async-migration",
+              "sidebar": "docs"
+            },
+            {
+              "id": "autocompletion",
+              "path": "/docs/autocompletion",
+              "sidebar": "docs"
+            },
+            {
+              "id": "automationProtocols",
+              "path": "/docs/automationProtocols",
+              "sidebar": "docs"
+            },
+            {
+              "id": "autowait",
+              "path": "/docs/autowait",
+              "sidebar": "docs"
+            },
+            {
+              "id": "babel",
+              "path": "/docs/babel",
+              "sidebar": "docs"
+            },
+            {
+              "id": "bamboo",
+              "path": "/docs/bamboo",
+              "sidebar": "docs"
+            },
+            {
+              "id": "boilerplates",
+              "path": "/docs/boilerplates",
+              "sidebar": "docs"
+            },
+            {
+              "id": "browserobject",
+              "path": "/docs/browserobject",
+              "sidebar": "docs"
+            },
+            {
+              "id": "browserstack-service",
+              "path": "/docs/browserstack-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "clioptions",
+              "path": "/docs/clioptions",
+              "sidebar": "docs"
+            },
+            {
+              "id": "cloudservices",
+              "path": "/docs/cloudservices",
+              "sidebar": "docs"
+            },
+            {
+              "id": "concise-reporter",
+              "path": "/docs/concise-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "configurationfile",
+              "path": "/docs/configurationfile",
+              "sidebar": "docs"
+            },
+            {
+              "id": "contribute",
+              "path": "/docs/contribute"
+            },
+            {
+              "id": "crossbrowsertesting-service",
+              "path": "/docs/crossbrowsertesting-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "customcommands",
+              "path": "/docs/customcommands",
+              "sidebar": "docs"
+            },
+            {
+              "id": "customreporter",
+              "path": "/docs/customreporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "customservices",
+              "path": "/docs/customservices",
+              "sidebar": "docs"
+            },
+            {
+              "id": "debugging",
+              "path": "/docs/debugging",
+              "sidebar": "docs"
+            },
+            {
+              "id": "devtools-service",
+              "path": "/docs/devtools-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "docker",
+              "path": "/docs/docker",
+              "sidebar": "docs"
+            },
+            {
+              "id": "dot-reporter",
+              "path": "/docs/dot-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "driverbinaries",
+              "path": "/docs/driverbinaries",
+              "sidebar": "docs"
+            },
+            {
+              "id": "enterprise",
+              "path": "/docs/enterprise"
+            },
+            {
+              "id": "firefox-profile-service",
+              "path": "/docs/firefox-profile-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "flowcharts/createlocalworkerprocess",
+              "path": "/docs/flowcharts/createlocalworkerprocess",
+              "sidebar": "flowcharts"
+            },
+            {
+              "id": "flowcharts/highleveloverview",
+              "path": "/docs/flowcharts/highleveloverview",
+              "sidebar": "flowcharts"
+            },
+            {
+              "id": "flowcharts/testexecution",
+              "path": "/docs/flowcharts/testexecution",
+              "sidebar": "flowcharts"
+            },
+            {
+              "id": "flowcharts/wdiocommands",
+              "path": "/docs/flowcharts/wdiocommands",
+              "sidebar": "flowcharts"
+            },
+            {
+              "id": "flowchartsoverview",
+              "path": "/docs/flowchartsoverview"
+            },
+            {
+              "id": "frameworks",
+              "path": "/docs/frameworks",
+              "sidebar": "docs"
+            },
+            {
+              "id": "gettingstarted",
+              "path": "/docs/gettingstarted",
+              "sidebar": "docs"
+            },
+            {
+              "id": "githubactions",
+              "path": "/docs/githubactions",
+              "sidebar": "docs"
+            },
+            {
+              "id": "jenkins",
+              "path": "/docs/jenkins",
+              "sidebar": "docs"
+            },
+            {
+              "id": "junit-reporter",
+              "path": "/docs/junit-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "mocksandspies",
+              "path": "/docs/mocksandspies",
+              "sidebar": "docs"
+            },
+            {
+              "id": "multiremote",
+              "path": "/docs/multiremote",
+              "sidebar": "docs"
+            },
+            {
+              "id": "options",
+              "path": "/docs/options",
+              "sidebar": "docs"
+            },
+            {
+              "id": "organizingsuites",
+              "path": "/docs/organizingsuites",
+              "sidebar": "docs"
+            },
+            {
+              "id": "pageobjects",
+              "path": "/docs/pageobjects",
+              "sidebar": "docs"
+            },
+            {
+              "id": "protractor-migration",
+              "path": "/docs/protractor-migration",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proxy",
+              "path": "/docs/proxy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "repl",
+              "path": "/docs/repl",
+              "sidebar": "docs"
+            },
+            {
+              "id": "retry",
+              "path": "/docs/retry",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rpii-wdio-html-reporter",
+              "path": "/docs/rpii-wdio-html-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "sauce-service",
+              "path": "/docs/sauce-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "selectors",
+              "path": "/docs/selectors",
+              "sidebar": "docs"
+            },
+            {
+              "id": "selenium-standalone-service",
+              "path": "/docs/selenium-standalone-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "setuptypes",
+              "path": "/docs/setuptypes",
+              "sidebar": "docs"
+            },
+            {
+              "id": "shared-store-service",
+              "path": "/docs/shared-store-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "spec-reporter",
+              "path": "/docs/spec-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "static-server-service",
+              "path": "/docs/static-server-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "sumologic-reporter",
+              "path": "/docs/sumologic-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "sync-vs-async",
+              "path": "/docs/sync-vs-async",
+              "sidebar": "docs"
+            },
+            {
+              "id": "testingbot-service",
+              "path": "/docs/testingbot-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "timeouts",
+              "path": "/docs/timeouts",
+              "sidebar": "docs"
+            },
+            {
+              "id": "typescript",
+              "path": "/docs/typescript",
+              "sidebar": "docs"
+            },
+            {
+              "id": "v6-migration",
+              "path": "/docs/v6-migration",
+              "sidebar": "docs"
+            },
+            {
+              "id": "v7-migration",
+              "path": "/docs/v7-migration",
+              "sidebar": "docs"
+            },
+            {
+              "id": "watcher",
+              "path": "/docs/watcher",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-aws-device-farm-service",
+              "path": "/docs/wdio-aws-device-farm-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-chromedriver-service",
+              "path": "/docs/wdio-chromedriver-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-cleanuptotal-service",
+              "path": "/docs/wdio-cleanuptotal-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-cucumberjs-json-reporter",
+              "path": "/docs/wdio-cucumberjs-json-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-delta-reporter-service",
+              "path": "/docs/wdio-delta-reporter-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-docker-service",
+              "path": "/docs/wdio-docker-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-eslinter-service",
+              "path": "/docs/wdio-eslinter-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-image-comparison-service",
+              "path": "/docs/wdio-image-comparison-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-intercept-service",
+              "path": "/docs/wdio-intercept-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-json-reporter",
+              "path": "/docs/wdio-json-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-lambdatest-service",
+              "path": "/docs/wdio-lambdatest-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-markdown-reporter",
+              "path": "/docs/wdio-markdown-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-mochawesome-reporter",
+              "path": "/docs/wdio-mochawesome-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-ms-teams-service",
+              "path": "/docs/wdio-ms-teams-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-ng-apimock-service",
+              "path": "/docs/wdio-ng-apimock-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-novus-visual-regression-service",
+              "path": "/docs/wdio-novus-visual-regression-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-ocr-service",
+              "path": "/docs/wdio-ocr-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-performancetotal-service",
+              "path": "/docs/wdio-performancetotal-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-reportportal-reporter",
+              "path": "/docs/wdio-reportportal-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-reportportal-service",
+              "path": "/docs/wdio-reportportal-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-rerun-service",
+              "path": "/docs/wdio-rerun-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-slack-service",
+              "path": "/docs/wdio-slack-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-timeline-reporter",
+              "path": "/docs/wdio-timeline-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-ui5-service",
+              "path": "/docs/wdio-ui5-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-video-reporter",
+              "path": "/docs/wdio-video-reporter",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-wait-for",
+              "path": "/docs/wdio-wait-for",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-winappdriver-service",
+              "path": "/docs/wdio-winappdriver-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-wiremock-service",
+              "path": "/docs/wdio-wiremock-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-ywinappdriver-service",
+              "path": "/docs/wdio-ywinappdriver-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "wdio-zafira-listener-service",
+              "path": "/docs/wdio-zafira-listener-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "webdriver-mock-service",
+              "path": "/docs/webdriver-mock-service",
+              "sidebar": "docs"
+            },
+            {
+              "id": "what-is-webdriverio",
+              "path": "/docs/what-is-webdriverio",
+              "sidebar": "docs"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

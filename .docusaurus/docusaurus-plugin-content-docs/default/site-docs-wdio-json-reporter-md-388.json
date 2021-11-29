@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-json-reporter",
+  "id": "wdio-json-reporter",
+  "isDocsHomePage": false,
+  "title": "JSON Reporter",
+  "description": "wdio-json-reporter is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-json-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-json-reporter",
+  "permalink": "/docs/wdio-json-reporter",
+  "editUrl": "https://github.com/fijijavis/wdio-json-reporter/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-json-reporter",
+    "title": "JSON Reporter",
+    "custom_edit_url": "https://github.com/fijijavis/wdio-json-reporter/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "HTML Reporter",
+    "permalink": "/docs/rpii-wdio-html-reporter"
+  },
+  "next": {
+    "title": "Mochawesome Reporter",
+    "permalink": "/docs/wdio-mochawesome-reporter"
+  }
+}

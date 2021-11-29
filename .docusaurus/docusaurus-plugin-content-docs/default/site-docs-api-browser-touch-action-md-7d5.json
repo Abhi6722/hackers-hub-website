@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/touchAction",
+  "id": "api/browser/touchAction",
+  "isDocsHomePage": false,
+  "title": "touchAction",
+  "description": "The Touch Action API provides the basis of all gestures that can be automated in Appium.",
+  "source": "@site/docs/api/browser/_touchAction.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/touchAction",
+  "permalink": "/docs/api/browser/touchAction",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/touchAction.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "touchAction",
+    "title": "touchAction",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/touchAction.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "throttle",
+    "permalink": "/docs/api/browser/throttle"
+  },
+  "next": {
+    "title": "uploadFile",
+    "permalink": "/docs/api/browser/uploadFile"
+  }
+}

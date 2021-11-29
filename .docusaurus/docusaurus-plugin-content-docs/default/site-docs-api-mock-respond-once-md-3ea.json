@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/mock/respondOnce",
+  "id": "api/mock/respondOnce",
+  "isDocsHomePage": false,
+  "title": "respondOnce",
+  "description": "Only respond once with given overwrite. You can call respondOnce multiple",
+  "source": "@site/docs/api/mock/_respondOnce.md",
+  "sourceDirName": "api/mock",
+  "slug": "/api/mock/respondOnce",
+  "permalink": "/docs/api/mock/respondOnce",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/respondOnce.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "respondOnce",
+    "title": "respondOnce",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/mock/respondOnce.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "respond",
+    "permalink": "/docs/api/mock/respond"
+  },
+  "next": {
+    "title": "restore",
+    "permalink": "/docs/api/mock/restore"
+  }
+}

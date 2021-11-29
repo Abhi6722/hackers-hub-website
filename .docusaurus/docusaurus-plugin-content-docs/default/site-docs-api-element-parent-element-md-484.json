@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/parentElement",
+  "id": "api/element/parentElement",
+  "isDocsHomePage": false,
+  "title": "parentElement",
+  "description": "Returns the parent element of the selected DOM-element.",
+  "source": "@site/docs/api/element/_parentElement.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/parentElement",
+  "permalink": "/docs/api/element/parentElement",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/parentElement.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "parentElement",
+    "title": "parentElement",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/parentElement.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "nextElement",
+    "permalink": "/docs/api/element/nextElement"
+  },
+  "next": {
+    "title": "previousElement",
+    "permalink": "/docs/api/element/previousElement"
+  }
+}

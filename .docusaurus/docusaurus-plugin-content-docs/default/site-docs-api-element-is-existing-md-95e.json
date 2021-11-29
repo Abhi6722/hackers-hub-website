@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/isExisting",
+  "id": "api/element/isExisting",
+  "isDocsHomePage": false,
+  "title": "isExisting",
+  "description": "Returns true if element exists in the DOM.",
+  "source": "@site/docs/api/element/_isExisting.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/isExisting",
+  "permalink": "/docs/api/element/isExisting",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isExisting.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "isExisting",
+    "title": "isExisting",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isExisting.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "isEqual",
+    "permalink": "/docs/api/element/isEqual"
+  },
+  "next": {
+    "title": "isFocused",
+    "permalink": "/docs/api/element/isFocused"
+  }
+}

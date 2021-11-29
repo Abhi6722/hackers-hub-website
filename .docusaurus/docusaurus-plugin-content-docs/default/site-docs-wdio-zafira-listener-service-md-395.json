@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-zafira-listener-service",
+  "id": "wdio-zafira-listener-service",
+  "isDocsHomePage": false,
+  "title": "Zafira Listener Service",
+  "description": "wdio-zafira-listener-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-zafira-listener-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-zafira-listener-service",
+  "permalink": "/docs/wdio-zafira-listener-service",
+  "editUrl": "https://github.com/shashidharus/wdio-zafira-listener-service/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-zafira-listener-service",
+    "title": "Zafira Listener Service",
+    "custom_edit_url": "https://github.com/shashidharus/wdio-zafira-listener-service/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Intercept Service",
+    "permalink": "/docs/wdio-intercept-service"
+  },
+  "next": {
+    "title": "Report Portal Service",
+    "permalink": "/docs/wdio-reportportal-service"
+  }
+}

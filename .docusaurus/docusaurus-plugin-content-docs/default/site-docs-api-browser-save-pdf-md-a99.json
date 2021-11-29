@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/savePDF",
+  "id": "api/browser/savePDF",
+  "isDocsHomePage": false,
+  "title": "savePDF",
+  "description": "Prints the page of the current browsing context to a PDF file on your OS.",
+  "source": "@site/docs/api/browser/_savePDF.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/savePDF",
+  "permalink": "/docs/api/browser/savePDF",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/savePDF.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "savePDF",
+    "title": "savePDF",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/savePDF.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "reloadSession",
+    "permalink": "/docs/api/browser/reloadSession"
+  },
+  "next": {
+    "title": "saveRecordingScreen",
+    "permalink": "/docs/api/browser/saveRecordingScreen"
+  }
+}

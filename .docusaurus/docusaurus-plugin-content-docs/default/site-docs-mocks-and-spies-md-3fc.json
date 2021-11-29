@@ -1,0 +1,27 @@
+{
+  "unversionedId": "mocksandspies",
+  "id": "mocksandspies",
+  "isDocsHomePage": false,
+  "title": "Mocks and Spies",
+  "description": "WebdriverIO comes with built in support for modifying network responses that allows you to focus testing your frontend application without having to setup your backend or a mock server. You can define custom responses for web resources like REST API requests in your test and modify them dynamically.",
+  "source": "@site/docs/MocksAndSpies.md",
+  "sourceDirName": ".",
+  "slug": "/mocksandspies",
+  "permalink": "/docs/mocksandspies",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/MocksAndSpies.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mocksandspies",
+    "title": "Mocks and Spies"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "The Browser Object",
+    "permalink": "/docs/browserobject"
+  },
+  "next": {
+    "title": "Custom Commands",
+    "permalink": "/docs/customcommands"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getText",
+  "id": "api/element/getText",
+  "isDocsHomePage": false,
+  "title": "getText",
+  "description": "Get the text content from a DOM-element. Make sure the element",
+  "source": "@site/docs/api/element/_getText.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getText",
+  "permalink": "/docs/api/element/getText",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getText.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getText",
+    "title": "getText",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getText.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getTagName",
+    "permalink": "/docs/api/element/getTagName"
+  },
+  "next": {
+    "title": "getValue",
+    "permalink": "/docs/api/element/getValue"
+  }
+}

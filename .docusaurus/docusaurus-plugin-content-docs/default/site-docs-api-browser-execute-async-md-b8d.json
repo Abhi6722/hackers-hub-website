@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/executeAsync",
+  "id": "api/browser/executeAsync",
+  "isDocsHomePage": false,
+  "title": "executeAsync",
+  "description": "Inject a snippet of JavaScript into the page for execution in the context of the currently selected",
+  "source": "@site/docs/api/browser/_executeAsync.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/executeAsync",
+  "permalink": "/docs/api/browser/executeAsync",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/executeAsync.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "executeAsync",
+    "title": "executeAsync",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/executeAsync.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "execute",
+    "permalink": "/docs/api/browser/execute"
+  },
+  "next": {
+    "title": "getCookies",
+    "permalink": "/docs/api/browser/getCookies"
+  }
+}

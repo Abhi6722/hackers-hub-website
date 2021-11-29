@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/execute",
+  "id": "api/browser/execute",
+  "isDocsHomePage": false,
+  "title": "execute",
+  "description": "Inject a snippet of JavaScript into the page for execution in the context of the currently selected frame.",
+  "source": "@site/docs/api/browser/_execute.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/execute",
+  "permalink": "/docs/api/browser/execute",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/execute.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "execute",
+    "title": "execute",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/execute.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "deleteCookies",
+    "permalink": "/docs/api/browser/deleteCookies"
+  },
+  "next": {
+    "title": "executeAsync",
+    "permalink": "/docs/api/browser/executeAsync"
+  }
+}

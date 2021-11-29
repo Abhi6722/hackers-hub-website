@@ -1,0 +1,28 @@
+{
+  "unversionedId": "sumologic-reporter",
+  "id": "sumologic-reporter",
+  "isDocsHomePage": false,
+  "title": "Sumologic Reporter",
+  "description": "A WebdriverIO reporter that sends test results to Sumologic for data analyses",
+  "source": "@site/docs/_sumologic-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/sumologic-reporter",
+  "permalink": "/docs/sumologic-reporter",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-sumologic-reporter/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sumologic-reporter",
+    "title": "Sumologic Reporter",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-sumologic-reporter/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Spec Reporter",
+    "permalink": "/docs/spec-reporter"
+  },
+  "next": {
+    "title": "Report Portal Reporter",
+    "permalink": "/docs/wdio-reportportal-reporter"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/addValue",
+  "id": "api/element/addValue",
+  "isDocsHomePage": false,
+  "title": "addValue",
+  "description": "Add a value to an object found by given selector. You can also use unicode",
+  "source": "@site/docs/api/element/_addValue.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/addValue",
+  "permalink": "/docs/api/element/addValue",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/addValue.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "addValue",
+    "title": "addValue",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/addValue.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "$",
+    "permalink": "/docs/api/element/$"
+  },
+  "next": {
+    "title": "clearValue",
+    "permalink": "/docs/api/element/clearValue"
+  }
+}

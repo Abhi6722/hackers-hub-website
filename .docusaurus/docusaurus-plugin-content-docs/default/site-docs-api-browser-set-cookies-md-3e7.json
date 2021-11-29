@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/setCookies",
+  "id": "api/browser/setCookies",
+  "isDocsHomePage": false,
+  "title": "setCookies",
+  "description": "Sets one or more cookies for the current page. Make sure you are",
+  "source": "@site/docs/api/browser/_setCookies.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/setCookies",
+  "permalink": "/docs/api/browser/setCookies",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/setCookies.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "setCookies",
+    "title": "setCookies",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/setCookies.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "saveScreenshot",
+    "permalink": "/docs/api/browser/saveScreenshot"
+  },
+  "next": {
+    "title": "setTimeout",
+    "permalink": "/docs/api/browser/setTimeout"
+  }
+}

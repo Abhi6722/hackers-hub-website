@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-timeline-reporter",
+  "id": "wdio-timeline-reporter",
+  "isDocsHomePage": false,
+  "title": "Timeline Reporter",
+  "description": "wdio-timeline-reporter is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-timeline-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-timeline-reporter",
+  "permalink": "/docs/wdio-timeline-reporter",
+  "editUrl": "https://github.com/QualityOps/wdio-timeline-reporter/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-timeline-reporter",
+    "title": "Timeline Reporter",
+    "custom_edit_url": "https://github.com/QualityOps/wdio-timeline-reporter/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Mochawesome Reporter",
+    "permalink": "/docs/wdio-mochawesome-reporter"
+  },
+  "next": {
+    "title": "CucumberJS JSON Reporter",
+    "permalink": "/docs/wdio-cucumberjs-json-reporter"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "multiremote",
+  "id": "multiremote",
+  "isDocsHomePage": false,
+  "title": "Multiremote",
+  "description": "WebdriverIO allows you to run multiple automated sessions in a single test. This becomes handy when you’re testing features that require multiple users (for example, chat or WebRTC applications).",
+  "source": "@site/docs/Multiremote.md",
+  "sourceDirName": ".",
+  "slug": "/multiremote",
+  "permalink": "/docs/multiremote",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Multiremote.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "multiremote",
+    "title": "Multiremote"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Automation Protocols",
+    "permalink": "/docs/automationProtocols"
+  },
+  "next": {
+    "title": "Auto-waiting",
+    "permalink": "/docs/autowait"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/previousElement",
+  "id": "api/element/previousElement",
+  "isDocsHomePage": false,
+  "title": "previousElement",
+  "description": "Returns the previous sibling element of the selected DOM-element.",
+  "source": "@site/docs/api/element/_previousElement.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/previousElement",
+  "permalink": "/docs/api/element/previousElement",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/previousElement.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "previousElement",
+    "title": "previousElement",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/previousElement.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "parentElement",
+    "permalink": "/docs/api/element/parentElement"
+  },
+  "next": {
+    "title": "react$$",
+    "permalink": "/docs/api/element/react$$"
+  }
+}

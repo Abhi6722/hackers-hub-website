@@ -1,0 +1,27 @@
+{
+  "unversionedId": "githubactions",
+  "id": "githubactions",
+  "isDocsHomePage": false,
+  "title": "Github Actions",
+  "description": "If your repository is hosted on Github, you can use Github Actions to run your tests on Github's infrastructure.",
+  "source": "@site/docs/GithubActions.md",
+  "sourceDirName": ".",
+  "slug": "/githubactions",
+  "permalink": "/docs/githubactions",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/GithubActions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "githubactions",
+    "title": "Github Actions"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Docker",
+    "permalink": "/docs/docker"
+  },
+  "next": {
+    "title": "Jenkins",
+    "permalink": "/docs/jenkins"
+  }
+}

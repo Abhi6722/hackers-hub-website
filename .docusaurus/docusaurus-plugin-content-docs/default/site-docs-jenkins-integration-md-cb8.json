@@ -1,0 +1,27 @@
+{
+  "unversionedId": "jenkins",
+  "id": "jenkins",
+  "isDocsHomePage": false,
+  "title": "Jenkins",
+  "description": "WebdriverIO offers a tight integration to CI systems like Jenkins. With the junit reporter, you can easily debug your tests as well as keep track of your test results. The integration is pretty easy.",
+  "source": "@site/docs/JenkinsIntegration.md",
+  "sourceDirName": ".",
+  "slug": "/jenkins",
+  "permalink": "/docs/jenkins",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/JenkinsIntegration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "jenkins",
+    "title": "Jenkins"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Github Actions",
+    "permalink": "/docs/githubactions"
+  },
+  "next": {
+    "title": "Bamboo",
+    "permalink": "/docs/bamboo"
+  }
+}

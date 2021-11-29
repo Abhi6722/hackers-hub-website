@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/uploadFile",
+  "id": "api/browser/uploadFile",
+  "isDocsHomePage": false,
+  "title": "uploadFile",
+  "description": "Uploads a file to the Selenium Standalone server or other browser driver",
+  "source": "@site/docs/api/browser/_uploadFile.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/uploadFile",
+  "permalink": "/docs/api/browser/uploadFile",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/uploadFile.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "uploadFile",
+    "title": "uploadFile",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/uploadFile.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "touchAction",
+    "permalink": "/docs/api/browser/touchAction"
+  },
+  "next": {
+    "title": "url",
+    "permalink": "/docs/api/browser/url"
+  }
+}

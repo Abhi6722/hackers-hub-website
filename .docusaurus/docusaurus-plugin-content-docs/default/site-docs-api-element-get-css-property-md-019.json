@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getCSSProperty",
+  "id": "api/element/getCSSProperty",
+  "isDocsHomePage": false,
+  "title": "getCSSProperty",
+  "description": "Get a css property from a DOM-element selected by given selector. The return value",
+  "source": "@site/docs/api/element/_getCSSProperty.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getCSSProperty",
+  "permalink": "/docs/api/element/getCSSProperty",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getCSSProperty.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getCSSProperty",
+    "title": "getCSSProperty",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getCSSProperty.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getAttribute",
+    "permalink": "/docs/api/element/getAttribute"
+  },
+  "next": {
+    "title": "getComputedLabel",
+    "permalink": "/docs/api/element/getComputedLabel"
+  }
+}

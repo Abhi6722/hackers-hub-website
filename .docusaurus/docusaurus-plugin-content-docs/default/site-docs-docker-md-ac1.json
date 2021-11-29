@@ -1,0 +1,27 @@
+{
+  "unversionedId": "docker",
+  "id": "docker",
+  "isDocsHomePage": false,
+  "title": "Docker",
+  "description": "Docker is a powerful containerization technology that allows to encapsulate your test suite into a container that behaves the same on every system. This can avoid flakiness due to different browser or platform versions. In order to run your tests within a container, create a Dockerfile in your project directory, e.g.:",
+  "source": "@site/docs/Docker.md",
+  "sourceDirName": ".",
+  "slug": "/docker",
+  "permalink": "/docs/docker",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Docker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "docker",
+    "title": "Docker"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Autocompletion",
+    "permalink": "/docs/autocompletion"
+  },
+  "next": {
+    "title": "Github Actions",
+    "permalink": "/docs/githubactions"
+  }
+}

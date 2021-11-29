@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/setWindowSize",
+  "id": "api/browser/setWindowSize",
+  "isDocsHomePage": false,
+  "title": "setWindowSize",
+  "description": "Resizes browser window outer size according to provided width and height.",
+  "source": "@site/docs/api/browser/_setWindowSize.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/setWindowSize",
+  "permalink": "/docs/api/browser/setWindowSize",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/setWindowSize.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "setWindowSize",
+    "title": "setWindowSize",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/setWindowSize.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "setTimeout",
+    "permalink": "/docs/api/browser/setTimeout"
+  },
+  "next": {
+    "title": "switchWindow",
+    "permalink": "/docs/api/browser/switchWindow"
+  }
+}

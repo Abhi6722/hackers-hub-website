@@ -1,0 +1,19 @@
+{
+  "unversionedId": "resources",
+  "id": "resources",
+  "isDocsHomePage": false,
+  "title": "Resources",
+  "description": "There are many wonderful curated resources the WebdriverIO community has put together.",
+  "source": "@site/community/Resources.md",
+  "sourceDirName": ".",
+  "slug": "/resources",
+  "permalink": "/community/resources",
+  "editUrl": "https://github.com/webdriverio-community/awesome-webdriverio/edit/main/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "resources",
+    "title": "Resources",
+    "custom_edit_url": "https://github.com/webdriverio-community/awesome-webdriverio/edit/main/README.md"
+  }
+}

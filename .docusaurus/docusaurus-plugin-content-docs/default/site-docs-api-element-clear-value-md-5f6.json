@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/clearValue",
+  "id": "api/element/clearValue",
+  "isDocsHomePage": false,
+  "title": "clearValue",
+  "description": "Clear a ` or text ` element’s value. Make sure you can interact with the",
+  "source": "@site/docs/api/element/_clearValue.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/clearValue",
+  "permalink": "/docs/api/element/clearValue",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/clearValue.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "clearValue",
+    "title": "clearValue",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/clearValue.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "addValue",
+    "permalink": "/docs/api/element/addValue"
+  },
+  "next": {
+    "title": "click",
+    "permalink": "/docs/api/element/click"
+  }
+}

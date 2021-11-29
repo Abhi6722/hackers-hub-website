@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-delta-reporter-service",
+  "id": "wdio-delta-reporter-service",
+  "isDocsHomePage": false,
+  "title": "Delta Reporter Reporter",
+  "description": "wdio-delta-reporter-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-delta-reporter-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-delta-reporter-service",
+  "permalink": "/docs/wdio-delta-reporter-service",
+  "editUrl": "https://github.com/delta-reporter/delta-reporter-wdio/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-delta-reporter-service",
+    "title": "Delta Reporter Reporter",
+    "custom_edit_url": "https://github.com/delta-reporter/delta-reporter-wdio/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Markdown Reporter",
+    "permalink": "/docs/wdio-markdown-reporter"
+  },
+  "next": {
+    "title": "Appium Service",
+    "permalink": "/docs/appium-service"
+  }
+}

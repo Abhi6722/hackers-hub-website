@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-image-comparison-service",
+  "id": "wdio-image-comparison-service",
+  "isDocsHomePage": false,
+  "title": "Image Comparison (Visual Regression Testing) Service",
+  "description": "wdio-image-comparison-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-image-comparison-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-image-comparison-service",
+  "permalink": "/docs/wdio-image-comparison-service",
+  "editUrl": "https://github.com/wswebcreation/wdio-image-comparison-service/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-image-comparison-service",
+    "title": "Image Comparison (Visual Regression Testing) Service",
+    "custom_edit_url": "https://github.com/wswebcreation/wdio-image-comparison-service/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "LambdaTest Service",
+    "permalink": "/docs/wdio-lambdatest-service"
+  },
+  "next": {
+    "title": "Ng-apimock Service",
+    "permalink": "/docs/wdio-ng-apimock-service"
+  }
+}

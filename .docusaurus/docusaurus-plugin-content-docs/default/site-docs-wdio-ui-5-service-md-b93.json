@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-ui5-service",
+  "id": "wdio-ui5-service",
+  "isDocsHomePage": false,
+  "title": "UI5 Service",
+  "description": "wdio-ui5-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-ui5-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-ui5-service",
+  "permalink": "/docs/wdio-ui5-service",
+  "editUrl": "https://github.com/js-soft/wdi5/edit/develop//wdio-ui5-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-ui5-service",
+    "title": "UI5 Service",
+    "custom_edit_url": "https://github.com/js-soft/wdi5/edit/develop//wdio-ui5-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Docker Service",
+    "permalink": "/docs/wdio-docker-service"
+  },
+  "next": {
+    "title": "WireMock Service",
+    "permalink": "/docs/wdio-wiremock-service"
+  }
+}

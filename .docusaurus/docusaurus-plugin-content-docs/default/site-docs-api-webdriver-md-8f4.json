@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/webdriver",
+  "id": "api/webdriver",
+  "isDocsHomePage": false,
+  "title": "WebDriver Protocol",
+  "description": "newSession",
+  "source": "@site/docs/api/_webdriver.md",
+  "sourceDirName": "api",
+  "slug": "/api/webdriver",
+  "permalink": "/docs/api/webdriver",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/webdriver.json",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "webdriver",
+    "title": "WebDriver Protocol",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-protocols/protocols/webdriver.json"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "Expect",
+    "permalink": "/docs/api/expect-webdriverio"
+  },
+  "next": {
+    "title": "Appium",
+    "permalink": "/docs/api/appium"
+  }
+}

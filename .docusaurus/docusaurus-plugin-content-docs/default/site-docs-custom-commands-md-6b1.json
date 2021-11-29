@@ -1,0 +1,27 @@
+{
+  "unversionedId": "customcommands",
+  "id": "customcommands",
+  "isDocsHomePage": false,
+  "title": "Custom Commands",
+  "description": "Adding custom commands",
+  "source": "@site/docs/CustomCommands.md",
+  "sourceDirName": ".",
+  "slug": "/customcommands",
+  "permalink": "/docs/customcommands",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/CustomCommands.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "customcommands",
+    "title": "Custom Commands"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Mocks and Spies",
+    "permalink": "/docs/mocksandspies"
+  },
+  "next": {
+    "title": "Page Object Pattern",
+    "permalink": "/docs/pageobjects"
+  }
+}

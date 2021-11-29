@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/waitForDisplayed",
+  "id": "api/element/waitForDisplayed",
+  "isDocsHomePage": false,
+  "title": "waitForDisplayed",
+  "description": "Wait for an element for the provided amount of milliseconds to be displayed or not displayed.",
+  "source": "@site/docs/api/element/_waitForDisplayed.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/waitForDisplayed",
+  "permalink": "/docs/api/element/waitForDisplayed",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitForDisplayed.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "waitForDisplayed",
+    "title": "waitForDisplayed",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitForDisplayed.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "waitForClickable",
+    "permalink": "/docs/api/element/waitForClickable"
+  },
+  "next": {
+    "title": "waitForEnabled",
+    "permalink": "/docs/api/element/waitForEnabled"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/throttle",
+  "id": "api/browser/throttle",
+  "isDocsHomePage": false,
+  "title": "throttle",
+  "description": "Throttle the network capabilities of the browser. This can help to",
+  "source": "@site/docs/api/browser/_throttle.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/throttle",
+  "permalink": "/docs/api/browser/throttle",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/throttle.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "throttle",
+    "title": "throttle",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/throttle.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "switchWindow",
+    "permalink": "/docs/api/browser/switchWindow"
+  },
+  "next": {
+    "title": "touchAction",
+    "permalink": "/docs/api/browser/touchAction"
+  }
+}

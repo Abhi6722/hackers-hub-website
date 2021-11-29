@@ -1,0 +1,27 @@
+{
+  "unversionedId": "proxy",
+  "id": "proxy",
+  "isDocsHomePage": false,
+  "title": "Proxy Setup",
+  "description": "You can tunnel two different types of request through a proxy:",
+  "source": "@site/docs/Proxy.md",
+  "sourceDirName": ".",
+  "slug": "/proxy",
+  "permalink": "/docs/proxy",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Proxy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "proxy",
+    "title": "Proxy Setup"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "TypeScript Setup",
+    "permalink": "/docs/typescript"
+  },
+  "next": {
+    "title": "Driver Binaries",
+    "permalink": "/docs/driverbinaries"
+  }
+}

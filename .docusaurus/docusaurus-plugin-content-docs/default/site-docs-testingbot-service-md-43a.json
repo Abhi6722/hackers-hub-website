@@ -1,0 +1,28 @@
+{
+  "unversionedId": "testingbot-service",
+  "id": "testingbot-service",
+  "isDocsHomePage": false,
+  "title": "Testingbot Service",
+  "description": "WebdriverIO service that provides a better integration into TestingBot. It updates the job metadata ('name', 'passed', 'tags', 'public', 'build', 'extra') and runs TestingBot Tunnel if desired.",
+  "source": "@site/docs/_testingbot-service.md",
+  "sourceDirName": ".",
+  "slug": "/testingbot-service",
+  "permalink": "/docs/testingbot-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-testingbot-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "testingbot-service",
+    "title": "Testingbot Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-testingbot-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Static Server Service",
+    "permalink": "/docs/static-server-service"
+  },
+  "next": {
+    "title": "Webdriver Mock Service",
+    "permalink": "/docs/webdriver-mock-service"
+  }
+}

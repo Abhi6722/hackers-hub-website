@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2021/03/31/open-collective",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2021-03-31-open-collective.md",
+  "source": "@site/blog/2021-03-31-open-collective.md",
+  "title": "WebdriverIO Opens an OpenCollective",
+  "description": "Today the WebdriverIO team announced in their OpenJS Foundation Q&A session that the project opens an OpenCollective to allow users and companies to donate to the development of the project and support community members to run WebdriverIO workshops and other types of events. This allows everyone to be paid to work on features and bug fixes as well as help the community to pay for pizza or rental space when hosting WebdriverIO workshops or meetups.",
+  "date": "2021-03-31T00:00:00.000Z",
+  "formattedDate": "March 31, 2021",
+  "tags": [],
+  "readingTime": 4.85,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Christian Bromann",
+      "url": "http://twitter.com/bromann",
+      "imageURL": "https://s.gravatar.com/avatar/d98b16d7c93d15865f34a225dd4b1254?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "Case Study - How WebdriverIO facilitated faster releases and better code quality for an online video company",
+    "permalink": "/blog/2021/06/22/jwplayer-case-study"
+  },
+  "nextItem": {
+    "title": "Grouping Specs for Execution in a Single Instance",
+    "permalink": "/blog/2021/03/23/grouping-specs"
+  }
+}

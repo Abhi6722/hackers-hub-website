@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/switchWindow",
+  "id": "api/browser/switchWindow",
+  "isDocsHomePage": false,
+  "title": "switchWindow",
+  "description": "Switch focus to a particular tab / window.",
+  "source": "@site/docs/api/browser/_switchWindow.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/switchWindow",
+  "permalink": "/docs/api/browser/switchWindow",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/switchWindow.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "switchWindow",
+    "title": "switchWindow",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/switchWindow.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "setWindowSize",
+    "permalink": "/docs/api/browser/setWindowSize"
+  },
+  "next": {
+    "title": "throttle",
+    "permalink": "/docs/api/browser/throttle"
+  }
+}

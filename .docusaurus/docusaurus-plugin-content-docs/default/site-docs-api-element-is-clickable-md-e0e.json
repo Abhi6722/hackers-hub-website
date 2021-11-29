@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/isClickable",
+  "id": "api/element/isClickable",
+  "isDocsHomePage": false,
+  "title": "isClickable",
+  "description": "Return true if the selected DOM-element:",
+  "source": "@site/docs/api/element/_isClickable.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/isClickable",
+  "permalink": "/docs/api/element/isClickable",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isClickable.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "isClickable",
+    "title": "isClickable",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isClickable.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getValue",
+    "permalink": "/docs/api/element/getValue"
+  },
+  "next": {
+    "title": "isDisplayed",
+    "permalink": "/docs/api/element/isDisplayed"
+  }
+}

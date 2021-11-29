@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/newWindow",
+  "id": "api/browser/newWindow",
+  "isDocsHomePage": false,
+  "title": "newWindow",
+  "description": "Open new window in browser. This command is the equivalent function to window.open(). This command does not",
+  "source": "@site/docs/api/browser/_newWindow.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/newWindow",
+  "permalink": "/docs/api/browser/newWindow",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/newWindow.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "newWindow",
+    "title": "newWindow",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/newWindow.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "mockRestoreAll",
+    "permalink": "/docs/api/browser/mockRestoreAll"
+  },
+  "next": {
+    "title": "overwriteCommand",
+    "permalink": "/docs/api/browser/overwriteCommand"
+  }
+}

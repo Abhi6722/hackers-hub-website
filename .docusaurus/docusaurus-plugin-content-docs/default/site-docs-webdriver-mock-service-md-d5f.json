@@ -1,0 +1,28 @@
+{
+  "unversionedId": "webdriver-mock-service",
+  "id": "webdriver-mock-service",
+  "isDocsHomePage": false,
+  "title": "Webdriver Mock Service",
+  "description": "Internal mock service to stub all endpoints for testing purposes.",
+  "source": "@site/docs/_webdriver-mock-service.md",
+  "sourceDirName": ".",
+  "slug": "/webdriver-mock-service",
+  "permalink": "/docs/webdriver-mock-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-webdriver-mock-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "webdriver-mock-service",
+    "title": "Webdriver Mock Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-webdriver-mock-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Testingbot Service",
+    "permalink": "/docs/testingbot-service"
+  },
+  "next": {
+    "title": "ChromeDriver Service",
+    "permalink": "/docs/wdio-chromedriver-service"
+  }
+}

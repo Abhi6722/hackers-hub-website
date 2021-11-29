@@ -1,0 +1,28 @@
+{
+  "unversionedId": "junit-reporter",
+  "id": "junit-reporter",
+  "isDocsHomePage": false,
+  "title": "Junit Reporter",
+  "description": "A WebdriverIO reporter that creates Jenkins compatible XML based JUnit reports",
+  "source": "@site/docs/_junit-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/junit-reporter",
+  "permalink": "/docs/junit-reporter",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-junit-reporter/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "junit-reporter",
+    "title": "Junit Reporter",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-junit-reporter/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Dot Reporter",
+    "permalink": "/docs/dot-reporter"
+  },
+  "next": {
+    "title": "Spec Reporter",
+    "permalink": "/docs/spec-reporter"
+  }
+}

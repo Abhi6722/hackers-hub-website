@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getTagName",
+  "id": "api/element/getTagName",
+  "isDocsHomePage": false,
+  "title": "getTagName",
+  "description": "Get tag name of a DOM-element.",
+  "source": "@site/docs/api/element/_getTagName.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getTagName",
+  "permalink": "/docs/api/element/getTagName",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getTagName.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getTagName",
+    "title": "getTagName",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getTagName.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getSize",
+    "permalink": "/docs/api/element/getSize"
+  },
+  "next": {
+    "title": "getText",
+    "permalink": "/docs/api/element/getText"
+  }
+}

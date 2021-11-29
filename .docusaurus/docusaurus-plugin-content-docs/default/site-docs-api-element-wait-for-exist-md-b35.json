@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/waitForExist",
+  "id": "api/element/waitForExist",
+  "isDocsHomePage": false,
+  "title": "waitForExist",
+  "description": "Wait for an element for the provided amount of",
+  "source": "@site/docs/api/element/_waitForExist.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/waitForExist",
+  "permalink": "/docs/api/element/waitForExist",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitForExist.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "waitForExist",
+    "title": "waitForExist",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitForExist.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "waitForEnabled",
+    "permalink": "/docs/api/element/waitForEnabled"
+  },
+  "next": {
+    "title": "waitUntil",
+    "permalink": "/docs/api/element/waitUntil"
+  }
+}

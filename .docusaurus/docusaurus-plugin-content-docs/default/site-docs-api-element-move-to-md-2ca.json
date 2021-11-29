@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/moveTo",
+  "id": "api/element/moveTo",
+  "isDocsHomePage": false,
+  "title": "moveTo",
+  "description": "Move the mouse by an offset of the specified element. If no element is specified,",
+  "source": "@site/docs/api/element/_moveTo.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/moveTo",
+  "permalink": "/docs/api/element/moveTo",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/moveTo.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "moveTo",
+    "title": "moveTo",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/moveTo.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "isSelected",
+    "permalink": "/docs/api/element/isSelected"
+  },
+  "next": {
+    "title": "nextElement",
+    "permalink": "/docs/api/element/nextElement"
+  }
+}

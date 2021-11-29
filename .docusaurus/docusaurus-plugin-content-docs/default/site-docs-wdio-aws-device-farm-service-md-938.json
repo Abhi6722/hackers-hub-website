@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-aws-device-farm-service",
+  "id": "wdio-aws-device-farm-service",
+  "isDocsHomePage": false,
+  "title": "AWS Device Farm Service",
+  "description": "wdio-aws-device-farm-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-aws-device-farm-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-aws-device-farm-service",
+  "permalink": "/docs/wdio-aws-device-farm-service",
+  "editUrl": "https://github.com/awslabs/wdio-aws-device-farm-service/edit/main//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-aws-device-farm-service",
+    "title": "AWS Device Farm Service",
+    "custom_edit_url": "https://github.com/awslabs/wdio-aws-device-farm-service/edit/main//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "CleanupTotal Service",
+    "permalink": "/docs/wdio-cleanuptotal-service"
+  },
+  "next": {
+    "title": "OCR service for Appium Native Apps Service",
+    "permalink": "/docs/wdio-ocr-service"
+  }
+}

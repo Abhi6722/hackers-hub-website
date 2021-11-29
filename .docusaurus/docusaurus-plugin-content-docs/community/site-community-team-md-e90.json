@@ -1,0 +1,18 @@
+{
+  "unversionedId": "team",
+  "id": "team",
+  "isDocsHomePage": false,
+  "title": "Team",
+  "description": "The WebdriverIO development is led by a dedicated team of developers and SDETs from various companies as well contributions from people around the world.",
+  "source": "@site/community/Team.md",
+  "sourceDirName": ".",
+  "slug": "/team",
+  "permalink": "/community/team",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/community/Team.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "team",
+    "title": "Team"
+  }
+}

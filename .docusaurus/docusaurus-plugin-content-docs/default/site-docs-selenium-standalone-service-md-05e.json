@@ -1,0 +1,28 @@
+{
+  "unversionedId": "selenium-standalone-service",
+  "id": "selenium-standalone-service",
+  "isDocsHomePage": false,
+  "title": "Selenium Standalone Service",
+  "description": "Handling the Selenium server is out of scope of the actual WebdriverIO project. This service helps you to run Selenium seamlessly when running tests with the WDIO testrunner. It uses the well known selenium-standalone NPM package that automatically sets up the standalone server and all required driver for you.",
+  "source": "@site/docs/_selenium-standalone-service.md",
+  "sourceDirName": ".",
+  "slug": "/selenium-standalone-service",
+  "permalink": "/docs/selenium-standalone-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-selenium-standalone-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "selenium-standalone-service",
+    "title": "Selenium Standalone Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-selenium-standalone-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Sauce Service",
+    "permalink": "/docs/sauce-service"
+  },
+  "next": {
+    "title": "Shared Store Service",
+    "permalink": "/docs/shared-store-service"
+  }
+}

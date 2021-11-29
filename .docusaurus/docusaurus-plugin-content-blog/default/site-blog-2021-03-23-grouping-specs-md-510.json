@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2021/03/23/grouping-specs",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2021-03-23-grouping-specs.md",
+  "source": "@site/blog/2021-03-23-grouping-specs.md",
+  "title": "Grouping Specs for Execution in a Single Instance",
+  "description": "Until now, WebdriverIO has created a separate instance to run each of the spec files. So, if we have a directory structure that looks something like this:",
+  "date": "2021-03-23T00:00:00.000Z",
+  "formattedDate": "March 23, 2021",
+  "tags": [],
+  "readingTime": 2.36,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Ross Addinall",
+      "url": "http://twitter.com/rossaddinall",
+      "imageURL": "https://s.gravatar.com/avatar/340d9dcc2c732de725ea9d94bdfcfe82?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "WebdriverIO Opens an OpenCollective",
+    "permalink": "/blog/2021/03/31/open-collective"
+  },
+  "nextItem": {
+    "title": "WebdriverIO v7 Released",
+    "permalink": "/blog/2021/02/09/webdriverio-v7-released"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "typescript",
+  "id": "typescript",
+  "isDocsHomePage": false,
+  "title": "TypeScript Setup",
+  "description": "You can write tests using TypeScript to get autocompletion and type safety.",
+  "source": "@site/docs/TypeScript.md",
+  "sourceDirName": ".",
+  "slug": "/typescript",
+  "permalink": "/docs/typescript",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/TypeScript.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "typescript",
+    "title": "TypeScript Setup"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Babel Setup",
+    "permalink": "/docs/babel"
+  },
+  "next": {
+    "title": "Proxy Setup",
+    "permalink": "/docs/proxy"
+  }
+}

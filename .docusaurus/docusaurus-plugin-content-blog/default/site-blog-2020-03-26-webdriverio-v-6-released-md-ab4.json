@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2020/03/26/webdriverio-v6-released",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2020-03-26-webdriverio-v6-released.md",
+  "source": "@site/blog/2020-03-26-webdriverio-v6-released.md",
+  "title": "WebdriverIO v6 Released",
+  "description": "If you read this and are already about to freak out because you just spent a lot of time migrating to v5, don't worry! This major update is far less \"breaking\" than the one last year. While all the architectural changes last year left us no choice to break a lot of things, we were very careful this time and made sure that upgrading the framework won't become a big task.",
+  "date": "2020-03-26T00:00:00.000Z",
+  "formattedDate": "March 26, 2020",
+  "tags": [],
+  "readingTime": 10.705,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Christian Bromann",
+      "url": "http://twitter.com/bromann",
+      "imageURL": "https://s.gravatar.com/avatar/d98b16d7c93d15865f34a225dd4b1254?s=80"
+    }
+  ],
+  "prevItem": {
+    "title": "WebdriverIO Open Office Hours",
+    "permalink": "/blog/2020/07/01/office-hours"
+  },
+  "nextItem": {
+    "title": "WireMock as a Service",
+    "permalink": "/blog/2019/12/05/wiremock"
+  }
+}

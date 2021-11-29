@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/waitUntil",
+  "id": "api/element/waitUntil",
+  "isDocsHomePage": false,
+  "title": "waitUntil",
+  "description": "This wait command is your universal weapon if you want to wait on something. It expects a condition",
+  "source": "@site/docs/api/element/_waitUntil.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/waitUntil",
+  "permalink": "/docs/api/element/waitUntil",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitUntil.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "waitUntil",
+    "title": "waitUntil",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitUntil.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "waitForExist",
+    "permalink": "/docs/api/element/waitForExist"
+  },
+  "next": {
+    "title": "abort",
+    "permalink": "/docs/api/mock/abort"
+  }
+}

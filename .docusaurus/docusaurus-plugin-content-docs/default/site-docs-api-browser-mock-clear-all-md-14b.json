@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/mockClearAll",
+  "id": "api/browser/mockClearAll",
+  "isDocsHomePage": false,
+  "title": "mockClearAll",
+  "description": "Resets all information stored in all registered mocks of the session.",
+  "source": "@site/docs/api/browser/_mockClearAll.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/mockClearAll",
+  "permalink": "/docs/api/browser/mockClearAll",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/mockClearAll.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mockClearAll",
+    "title": "mockClearAll",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/mockClearAll.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "mock",
+    "permalink": "/docs/api/browser/mock"
+  },
+  "next": {
+    "title": "mockRestoreAll",
+    "permalink": "/docs/api/browser/mockRestoreAll"
+  }
+}

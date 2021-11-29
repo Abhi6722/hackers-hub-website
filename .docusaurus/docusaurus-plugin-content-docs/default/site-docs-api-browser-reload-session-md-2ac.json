@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/reloadSession",
+  "id": "api/browser/reloadSession",
+  "isDocsHomePage": false,
+  "title": "reloadSession",
+  "description": "Creates a new Selenium session with your current capabilities. This is useful if you",
+  "source": "@site/docs/api/browser/_reloadSession.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/reloadSession",
+  "permalink": "/docs/api/browser/reloadSession",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/reloadSession.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "reloadSession",
+    "title": "reloadSession",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/reloadSession.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "react$",
+    "permalink": "/docs/api/browser/react$"
+  },
+  "next": {
+    "title": "savePDF",
+    "permalink": "/docs/api/browser/savePDF"
+  }
+}

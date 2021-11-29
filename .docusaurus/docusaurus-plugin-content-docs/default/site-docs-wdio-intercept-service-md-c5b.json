@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-intercept-service",
+  "id": "wdio-intercept-service",
+  "isDocsHomePage": false,
+  "title": "Intercept Service",
+  "description": "wdio-intercept-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-intercept-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-intercept-service",
+  "permalink": "/docs/wdio-intercept-service",
+  "editUrl": "https://github.com/chmanie/wdio-intercept-service/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-intercept-service",
+    "title": "Intercept Service",
+    "custom_edit_url": "https://github.com/chmanie/wdio-intercept-service/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "ChromeDriver Service",
+    "permalink": "/docs/wdio-chromedriver-service"
+  },
+  "next": {
+    "title": "Zafira Listener Service",
+    "permalink": "/docs/wdio-zafira-listener-service"
+  }
+}

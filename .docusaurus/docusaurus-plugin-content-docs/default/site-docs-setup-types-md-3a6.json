@@ -1,0 +1,27 @@
+{
+  "unversionedId": "setuptypes",
+  "id": "setuptypes",
+  "isDocsHomePage": false,
+  "title": "Setup Types",
+  "description": "WebdriverIO can be used for various purposes. It implements the WebDriver protocol API and can run a browser in an automated way. The framework is designed to work in any arbitrary environment and for any kind of task. It is independent from any 3rd party frameworks and only requires Node.js to run.",
+  "source": "@site/docs/SetupTypes.md",
+  "sourceDirName": ".",
+  "slug": "/setuptypes",
+  "permalink": "/docs/setuptypes",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/SetupTypes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "setuptypes",
+    "title": "Setup Types"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Boilerplate Projects",
+    "permalink": "/docs/boilerplates"
+  },
+  "next": {
+    "title": "Sync vs. Async Mode",
+    "permalink": "/docs/sync-vs-async"
+  }
+}

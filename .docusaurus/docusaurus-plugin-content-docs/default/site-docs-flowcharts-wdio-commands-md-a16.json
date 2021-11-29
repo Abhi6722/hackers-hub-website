@@ -1,0 +1,23 @@
+{
+  "unversionedId": "flowcharts/wdiocommands",
+  "id": "flowcharts/wdiocommands",
+  "isDocsHomePage": false,
+  "title": "WDIO Commands",
+  "description": "This flowchart provides a high level overview of the @wdio/cli run, repl, config and install commands.",
+  "source": "@site/docs/flowcharts/WDIOCommands.md",
+  "sourceDirName": "flowcharts",
+  "slug": "/flowcharts/wdiocommands",
+  "permalink": "/docs/flowcharts/wdiocommands",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/flowcharts/WDIOCommands.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdiocommands",
+    "title": "WDIO Commands"
+  },
+  "sidebar": "flowcharts",
+  "next": {
+    "title": "Create worker process",
+    "permalink": "/docs/flowcharts/createlocalworkerprocess"
+  }
+}

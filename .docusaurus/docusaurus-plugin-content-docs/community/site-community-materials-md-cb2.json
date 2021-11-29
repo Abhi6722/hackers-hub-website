@@ -1,0 +1,18 @@
+{
+  "unversionedId": "materials",
+  "id": "materials",
+  "isDocsHomePage": false,
+  "title": "Materials",
+  "description": "If you want to use WebdriverIO materials for your own workshops or events feel free to grab them directly from here.",
+  "source": "@site/community/Materials.md",
+  "sourceDirName": ".",
+  "slug": "/materials",
+  "permalink": "/community/materials",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/community/Materials.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "materials",
+    "title": "Materials"
+  }
+}

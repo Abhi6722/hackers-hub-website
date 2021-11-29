@@ -1,0 +1,27 @@
+{
+  "unversionedId": "selectors",
+  "id": "selectors",
+  "isDocsHomePage": false,
+  "title": "Selectors",
+  "description": "The WebDriver Protocol provides several selector strategies to query an element. WebdriverIO simplifies them to keep selecting elements simple. Please note that even though the command to query elements is called $ and $$, they have nothing to do with jQuery or the Sizzle Selector Engine. The following selector types are supported:",
+  "source": "@site/docs/Selectors.md",
+  "sourceDirName": ".",
+  "slug": "/selectors",
+  "permalink": "/docs/selectors",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Selectors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "selectors",
+    "title": "Selectors"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Driver Binaries",
+    "permalink": "/docs/driverbinaries"
+  },
+  "next": {
+    "title": "Timeouts",
+    "permalink": "/docs/timeouts"
+  }
+}

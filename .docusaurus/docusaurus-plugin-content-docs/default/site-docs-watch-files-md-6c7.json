@@ -1,0 +1,27 @@
+{
+  "unversionedId": "watcher",
+  "id": "watcher",
+  "isDocsHomePage": false,
+  "title": "Watch Test Files",
+  "description": "With the WDIO testrunner you can watch files while you are working on them. They automatically rerun if you change either something in your app or in your test files. By adding a --watch flag when calling the wdio command the testrunner will wait for file changes after it ran all tests, e.g.",
+  "source": "@site/docs/WatchFiles.md",
+  "sourceDirName": ".",
+  "slug": "/watcher",
+  "permalink": "/docs/watcher",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/WatchFiles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "watcher",
+    "title": "Watch Test Files"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Retry Flaky Tests",
+    "permalink": "/docs/retry"
+  },
+  "next": {
+    "title": "Custom Reporter",
+    "permalink": "/docs/customreporter"
+  }
+}

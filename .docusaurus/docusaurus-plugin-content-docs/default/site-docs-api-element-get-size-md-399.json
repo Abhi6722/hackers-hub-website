@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/getSize",
+  "id": "api/element/getSize",
+  "isDocsHomePage": false,
+  "title": "getSize",
+  "description": "Get the width and height for an DOM-element.",
+  "source": "@site/docs/api/element/_getSize.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/getSize",
+  "permalink": "/docs/api/element/getSize",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getSize.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getSize",
+    "title": "getSize",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/getSize.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "getProperty",
+    "permalink": "/docs/api/element/getProperty"
+  },
+  "next": {
+    "title": "getTagName",
+    "permalink": "/docs/api/element/getTagName"
+  }
+}

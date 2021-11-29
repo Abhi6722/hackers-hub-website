@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/waitUntil",
+  "id": "api/browser/waitUntil",
+  "isDocsHomePage": false,
+  "title": "waitUntil",
+  "description": "This wait command is your universal weapon if you want to wait on something. It expects a condition",
+  "source": "@site/docs/api/browser/_waitUntil.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/waitUntil",
+  "permalink": "/docs/api/browser/waitUntil",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/waitUntil.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "waitUntil",
+    "title": "waitUntil",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/waitUntil.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "url",
+    "permalink": "/docs/api/browser/url"
+  },
+  "next": {
+    "title": "$$",
+    "permalink": "/docs/api/element/$$"
+  }
+}

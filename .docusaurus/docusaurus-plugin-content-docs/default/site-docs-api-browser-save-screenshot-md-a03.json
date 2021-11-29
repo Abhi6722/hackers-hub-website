@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/saveScreenshot",
+  "id": "api/browser/saveScreenshot",
+  "isDocsHomePage": false,
+  "title": "saveScreenshot",
+  "description": "Save a screenshot of the current browsing context to a PNG file on your OS. Be aware that",
+  "source": "@site/docs/api/browser/_saveScreenshot.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/saveScreenshot",
+  "permalink": "/docs/api/browser/saveScreenshot",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/saveScreenshot.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "saveScreenshot",
+    "title": "saveScreenshot",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/saveScreenshot.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "saveRecordingScreen",
+    "permalink": "/docs/api/browser/saveRecordingScreen"
+  },
+  "next": {
+    "title": "setCookies",
+    "permalink": "/docs/api/browser/setCookies"
+  }
+}

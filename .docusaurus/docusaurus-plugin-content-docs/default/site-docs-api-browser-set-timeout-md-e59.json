@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/browser/setTimeout",
+  "id": "api/browser/setTimeout",
+  "isDocsHomePage": false,
+  "title": "setTimeout",
+  "description": "Sets the timeouts associated with the current session, timeout durations control such",
+  "source": "@site/docs/api/browser/_setTimeout.md",
+  "sourceDirName": "api/browser",
+  "slug": "/api/browser/setTimeout",
+  "permalink": "/docs/api/browser/setTimeout",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/setTimeout.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "setTimeout",
+    "title": "setTimeout",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/browser/setTimeout.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "setCookies",
+    "permalink": "/docs/api/browser/setCookies"
+  },
+  "next": {
+    "title": "setWindowSize",
+    "permalink": "/docs/api/browser/setWindowSize"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "autowait",
+  "id": "autowait",
+  "isDocsHomePage": false,
+  "title": "Auto-waiting",
+  "description": "One of the most common reasons for flaky tests are interactions with elements that don't exist in your application at the time you want to interact with it. Modern web applications are very dynamic, elements show up and disappear. As a human we are waiting unconsciously for elements but in an automated script we don't consider this as an action. There are two ways to wait on an element to show up.",
+  "source": "@site/docs/AutoWait.md",
+  "sourceDirName": ".",
+  "slug": "/autowait",
+  "permalink": "/docs/autowait",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/AutoWait.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "autowait",
+    "title": "Auto-waiting"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Multiremote",
+    "permalink": "/docs/multiremote"
+  },
+  "next": {
+    "title": "Options",
+    "permalink": "/docs/options"
+  }
+}

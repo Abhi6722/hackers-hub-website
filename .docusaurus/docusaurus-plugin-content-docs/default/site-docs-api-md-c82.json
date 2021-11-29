@@ -1,0 +1,23 @@
+{
+  "unversionedId": "api",
+  "id": "api",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Welcome to the WebdriverIO docs page. These pages contain reference materials for all implemented selenium bindings and commands. WebdriverIO has all JSONWire protocol commands implemented and also supports special bindings for Appium.",
+  "source": "@site/docs/API.md",
+  "sourceDirName": ".",
+  "slug": "/api",
+  "permalink": "/docs/api",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/API.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "api",
+    "title": "Introduction"
+  },
+  "sidebar": "api",
+  "next": {
+    "title": "Expect",
+    "permalink": "/docs/api/expect-webdriverio"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/isEnabled",
+  "id": "api/element/isEnabled",
+  "isDocsHomePage": false,
+  "title": "isEnabled",
+  "description": "Return true or false if the selected DOM-element is enabled.",
+  "source": "@site/docs/api/element/_isEnabled.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/isEnabled",
+  "permalink": "/docs/api/element/isEnabled",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isEnabled.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "isEnabled",
+    "title": "isEnabled",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isEnabled.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "isDisplayedInViewport",
+    "permalink": "/docs/api/element/isDisplayedInViewport"
+  },
+  "next": {
+    "title": "isEqual",
+    "permalink": "/docs/api/element/isEqual"
+  }
+}

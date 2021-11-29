@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/selectByVisibleText",
+  "id": "api/element/selectByVisibleText",
+  "isDocsHomePage": false,
+  "title": "selectByVisibleText",
+  "description": "Select option with displayed text matching the argument.",
+  "source": "@site/docs/api/element/_selectByVisibleText.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/selectByVisibleText",
+  "permalink": "/docs/api/element/selectByVisibleText",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/selectByVisibleText.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "selectByVisibleText",
+    "title": "selectByVisibleText",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/selectByVisibleText.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "selectByIndex",
+    "permalink": "/docs/api/element/selectByIndex"
+  },
+  "next": {
+    "title": "setValue",
+    "permalink": "/docs/api/element/setValue"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "static-server-service",
+  "id": "static-server-service",
+  "isDocsHomePage": false,
+  "title": "Static Server Service",
+  "description": "Some projects are front-end assets only, and don't run on more than a static server. This service helps you to run a static file server during testing.",
+  "source": "@site/docs/_static-server-service.md",
+  "sourceDirName": ".",
+  "slug": "/static-server-service",
+  "permalink": "/docs/static-server-service",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-static-server-service/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "static-server-service",
+    "title": "Static Server Service",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-static-server-service/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Shared Store Service",
+    "permalink": "/docs/shared-store-service"
+  },
+  "next": {
+    "title": "Testingbot Service",
+    "permalink": "/docs/testingbot-service"
+  }
+}

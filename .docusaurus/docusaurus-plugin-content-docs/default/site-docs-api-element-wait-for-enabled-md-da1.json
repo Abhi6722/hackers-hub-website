@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/waitForEnabled",
+  "id": "api/element/waitForEnabled",
+  "isDocsHomePage": false,
+  "title": "waitForEnabled",
+  "description": "Wait for an element (selected by css selector) for the provided amount of",
+  "source": "@site/docs/api/element/_waitForEnabled.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/waitForEnabled",
+  "permalink": "/docs/api/element/waitForEnabled",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitForEnabled.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "waitForEnabled",
+    "title": "waitForEnabled",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/waitForEnabled.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "waitForDisplayed",
+    "permalink": "/docs/api/element/waitForDisplayed"
+  },
+  "next": {
+    "title": "waitForExist",
+    "permalink": "/docs/api/element/waitForExist"
+  }
+}

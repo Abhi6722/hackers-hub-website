@@ -1,0 +1,27 @@
+{
+  "unversionedId": "debugging",
+  "id": "debugging",
+  "isDocsHomePage": false,
+  "title": "Debugging",
+  "description": "Debugging is significantly more difficult when several processes spawn dozens of tests in multiple browsers.",
+  "source": "@site/docs/Debugging.md",
+  "sourceDirName": ".",
+  "slug": "/debugging",
+  "permalink": "/docs/debugging",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/Debugging.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "debugging",
+    "title": "Debugging"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Page Object Pattern",
+    "permalink": "/docs/pageobjects"
+  },
+  "next": {
+    "title": "REPL interface",
+    "permalink": "/docs/repl"
+  }
+}

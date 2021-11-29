@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/2021/06/22/jwplayer-case-study",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/blog/blog/2021-06-22-jwplayer-case-study.md",
+  "source": "@site/blog/2021-06-22-jwplayer-case-study.md",
+  "title": "Case Study - How WebdriverIO facilitated faster releases and better code quality for an online video company",
+  "description": "Choosing WebdriverIO",
+  "date": "2021-06-22T00:00:00.000Z",
+  "formattedDate": "June 22, 2021",
+  "tags": [],
+  "readingTime": 4.305,
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Eric Saari",
+      "url": "https://www.linkedin.com/in/esaari/",
+      "imageURL": "https://avatars.githubusercontent.com/u/5210550?s=400&u=a7918ea7b425d621b2252f6e963b8657acdd1b0c&v=4"
+    }
+  ],
+  "prevItem": {
+    "title": "Sync API Deprecation",
+    "permalink": "/blog/2021/07/28/sync-api-deprecation"
+  },
+  "nextItem": {
+    "title": "WebdriverIO Opens an OpenCollective",
+    "permalink": "/blog/2021/03/31/open-collective"
+  }
+}

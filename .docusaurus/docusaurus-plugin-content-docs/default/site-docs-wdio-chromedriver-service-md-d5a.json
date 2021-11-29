@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-chromedriver-service",
+  "id": "wdio-chromedriver-service",
+  "isDocsHomePage": false,
+  "title": "ChromeDriver Service",
+  "description": "wdio-chromedriver-service is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-chromedriver-service.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-chromedriver-service",
+  "permalink": "/docs/wdio-chromedriver-service",
+  "editUrl": "https://github.com/atti187/wdio-chromedriver-service/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-chromedriver-service",
+    "title": "ChromeDriver Service",
+    "custom_edit_url": "https://github.com/atti187/wdio-chromedriver-service/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Webdriver Mock Service",
+    "permalink": "/docs/webdriver-mock-service"
+  },
+  "next": {
+    "title": "Intercept Service",
+    "permalink": "/docs/wdio-intercept-service"
+  }
+}

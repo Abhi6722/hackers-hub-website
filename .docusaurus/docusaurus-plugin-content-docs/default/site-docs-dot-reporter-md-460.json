@@ -1,0 +1,28 @@
+{
+  "unversionedId": "dot-reporter",
+  "id": "dot-reporter",
+  "isDocsHomePage": false,
+  "title": "Dot Reporter",
+  "description": "A WebdriverIO plugin to report in dot style.",
+  "source": "@site/docs/_dot-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/dot-reporter",
+  "permalink": "/docs/dot-reporter",
+  "editUrl": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-dot-reporter/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dot-reporter",
+    "title": "Dot Reporter",
+    "custom_edit_url": "https://github.com/webdriverio/webdriverio/edit/main/packages/wdio-dot-reporter/README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Concise Reporter",
+    "permalink": "/docs/concise-reporter"
+  },
+  "next": {
+    "title": "Junit Reporter",
+    "permalink": "/docs/junit-reporter"
+  }
+}

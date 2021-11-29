@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/isDisplayedInViewport",
+  "id": "api/element/isDisplayedInViewport",
+  "isDocsHomePage": false,
+  "title": "isDisplayedInViewport",
+  "description": "Return true if the selected DOM-element found by given selector is partially visible and within the viewport.",
+  "source": "@site/docs/api/element/_isDisplayedInViewport.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/isDisplayedInViewport",
+  "permalink": "/docs/api/element/isDisplayedInViewport",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isDisplayedInViewport.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "isDisplayedInViewport",
+    "title": "isDisplayedInViewport",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/isDisplayedInViewport.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "isDisplayed",
+    "permalink": "/docs/api/element/isDisplayed"
+  },
+  "next": {
+    "title": "isEnabled",
+    "permalink": "/docs/api/element/isEnabled"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "api/element/dragAndDrop",
+  "id": "api/element/dragAndDrop",
+  "isDocsHomePage": false,
+  "title": "dragAndDrop",
+  "description": "Drag an item to a destination element or position.",
+  "source": "@site/docs/api/element/_dragAndDrop.md",
+  "sourceDirName": "api/element",
+  "slug": "/api/element/dragAndDrop",
+  "permalink": "/docs/api/element/dragAndDrop",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/dragAndDrop.ts",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dragAndDrop",
+    "title": "dragAndDrop",
+    "custom_edit_url": "https://github.com/Abhi6722/hackers-hub/edit/main/packages/webdriverio/src/commands/element/dragAndDrop.ts"
+  },
+  "sidebar": "api",
+  "previous": {
+    "title": "doubleClick",
+    "permalink": "/docs/api/element/doubleClick"
+  },
+  "next": {
+    "title": "getAttribute",
+    "permalink": "/docs/api/element/getAttribute"
+  }
+}

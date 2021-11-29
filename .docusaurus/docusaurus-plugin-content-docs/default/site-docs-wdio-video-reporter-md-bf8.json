@@ -1,0 +1,28 @@
+{
+  "unversionedId": "wdio-video-reporter",
+  "id": "wdio-video-reporter",
+  "isDocsHomePage": false,
+  "title": "Video Reporter",
+  "description": "wdio-video-reporter is a 3rd party package, for more information please see GitHub | npm",
+  "source": "@site/docs/_wdio-video-reporter.md",
+  "sourceDirName": ".",
+  "slug": "/wdio-video-reporter",
+  "permalink": "/docs/wdio-video-reporter",
+  "editUrl": "https://github.com/presidenten/wdio-video-reporter/edit/master//README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "wdio-video-reporter",
+    "title": "Video Reporter",
+    "custom_edit_url": "https://github.com/presidenten/wdio-video-reporter/edit/master//README.md"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Report Portal Reporter",
+    "permalink": "/docs/wdio-reportportal-reporter"
+  },
+  "next": {
+    "title": "HTML Reporter",
+    "permalink": "/docs/rpii-wdio-html-reporter"
+  }
+}

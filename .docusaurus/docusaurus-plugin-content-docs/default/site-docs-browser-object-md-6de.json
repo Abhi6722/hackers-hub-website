@@ -1,0 +1,27 @@
+{
+  "unversionedId": "browserobject",
+  "id": "browserobject",
+  "isDocsHomePage": false,
+  "title": "The Browser Object",
+  "description": "The browser object is the session instance you use to control the browser or mobile device with. If you use the WDIO test runner, you can access the WebDriver instance through the global browser or driver object.",
+  "source": "@site/docs/BrowserObject.md",
+  "sourceDirName": ".",
+  "slug": "/browserobject",
+  "permalink": "/docs/browserobject",
+  "editUrl": "https://github.com/Abhi6722/hackers-hub/edit/main/website/docs/BrowserObject.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "browserobject",
+    "title": "The Browser Object"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Timeouts",
+    "permalink": "/docs/timeouts"
+  },
+  "next": {
+    "title": "Mocks and Spies",
+    "permalink": "/docs/mocksandspies"
+  }
+}
