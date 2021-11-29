@@ -1,43 +1,5 @@
 {
   "docusaurus-plugin-content-docs": {
-    "community": {
-      "path": "/community",
-      "versions": [
-        {
-          "name": "current",
-          "label": "Next",
-          "isLast": true,
-          "path": "/community",
-          "mainDocId": "donate",
-          "docs": [
-            {
-              "id": "donate",
-              "path": "/community/donate"
-            },
-            {
-              "id": "materials",
-              "path": "/community/materials"
-            },
-            {
-              "id": "openofficehours",
-              "path": "/community/openofficehours"
-            },
-            {
-              "id": "resources",
-              "path": "/community/resources"
-            },
-            {
-              "id": "support",
-              "path": "/community/support"
-            },
-            {
-              "id": "team",
-              "path": "/community/team"
-            }
-          ]
-        }
-      ]
-    },
     "default": {
       "path": "/docs",
       "versions": [
@@ -1014,6 +976,44 @@
               "id": "what-is-webdriverio",
               "path": "/docs/what-is-webdriverio",
               "sidebar": "docs"
+            }
+          ]
+        }
+      ]
+    },
+    "community": {
+      "path": "/community",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/community",
+          "mainDocId": "donate",
+          "docs": [
+            {
+              "id": "donate",
+              "path": "/community/donate"
+            },
+            {
+              "id": "materials",
+              "path": "/community/materials"
+            },
+            {
+              "id": "openofficehours",
+              "path": "/community/openofficehours"
+            },
+            {
+              "id": "resources",
+              "path": "/community/resources"
+            },
+            {
+              "id": "support",
+              "path": "/community/support"
+            },
+            {
+              "id": "team",
+              "path": "/community/team"
             }
           ]
         }
